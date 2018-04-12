@@ -1,0 +1,131 @@
+\documentclass[11pt,letterpaper,twoside]{report}
+
+\sloppy
+
+% Layout
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage[subfigure]{tocloft}
+\usepackage{marvosym}
+%\usepackage{tocloft}
+
+% Citation style
+\usepackage{natbib}
+%\bibpunct{author-year}
+%\usepackage{apalike}
+
+% include citations inline
+\usepackage{bibentry}
+\nobibliography*
+
+% Figures
+\usepackage{subfigure}
+\usepackage{epsfig}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{listings}
+
+
+% Tables
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage[table]{xcolor}
+\usepackage{footnote}
+
+% Math
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{gensymb}
+
+\usepackage{siunitx}
+\sisetup{output-exponent-marker=\ensuremath{\mathrm{e}}}
+
+% Typography
+\usepackage{times}
+\usepackage{microtype}
+\usepackage{textcomp}
+
+% Macro support
+\usepackage{xspace}
+
+\usepackage[hyphens]{url}
+
+\usepackage{indentfirst}
+
+% PDF links
+\usepackage{footmisc} % backref=page
+
+
+\input{common/layout}
+
+\input{common/macros}
+
+\newcommand{\pr}{\text{Pr}}
+\newcommand{\bM}{\mathbf{M}}
+\newcommand{\bQ}{\mathbf{Q}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bK}{\mathbf{K}}
+\newcommand{\bW}{\mathbf{W}}
+\newcommand{\bw}{\mathbf{w}}
+\newcommand{\bV}{\mathbf{V}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bG}{\mathbf{G}}
+\newcommand{\bg}{\mathbf{g}}
+\newcommand{\bu}{\mathbf{u}}
+\newcommand{\bbetaqtl}{\boldsymbol{\beta}_{\text{QTL}}}
+\newcommand{\bbetaqtlhat}{\boldsymbol{\widehat{\beta}}_{\text{QTL}}}
+\newcommand{\btheta}{\boldsymbol{\theta}}
+\newcommand{\bPhi}{\boldsymbol{\Phi}}
+\newcommand{\bSigma}{\boldsymbol{\Sigma}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bx}{\mathbf{x}}
+\newcommand{\by}{\mathbf{y}}
+\newcommand{\bys}{\mathbf{y}^{(s)}}
+\newcommand{\bbeta}{\boldsymbol{\beta}}
+\newcommand{\bphi}{\boldsymbol{\phi}}
+\newcommand{\bepsilon}{\boldsymbol{\varepsilon}}
+\newcommand{\qtl}{\text{QTL}}
+\newcommand{\sigmasq}{\sigma^{2}}
+\newcommand{\tausq}{\tau^{2}}
+\newcommand{\indep}{\rotatebox[origin=c]{90}{$\models$}}
+\newcommand{\bone}{\mathbf{1}}
+\newcommand{\bzero}{\mathbf{0}}
+\newcommand{\bZ}{\mathbf{Z}}
+\newcommand{\bdelta}{\boldsymbol{\delta}}
+\newcommand{\bD}{\mathbf{D}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bP}{\mathbf{P}}
+\newcommand{\bPbar}{\mathbf{\bar{P}}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\baltepsilon}{\boldsymbol{\epsilon}}
+\newcommand{\bbarys}{\mathbf{\bar{y}}^{(s)}}
+\newcommand{\logp}{\text{logP}}
+\newcommand{\thresh}{T^{(s)}_{\alpha}}
+\newcommand{\phisq}{\phi^{2}}
+
+\newcommand{\beginchapterone}{%
+         \setcounter{figure}{0}
+         \renewcommand{\thefigure}{1.\arabic{figure}}%
+      }
+ \newcommand{\beginchaptertwo}{%
+         \setcounter{figure}{0}
+         \renewcommand{\thefigure}{2.\arabic{figure}}%
+      }
+ \newcommand{\beginchapterthree}{%
+         \setcounter{figure}{0}
+         \renewcommand{\thefigure}{3.\arabic{figure}}%
+      }
+ \newcommand{\beginchapterfour}{%
+         \setcounter{figure}{0}
+         \renewcommand{\thefigure}{4.\arabic{figure}}%
+      }
+
+
+
+
+
+
+
+

@@ -1,0 +1,205 @@
+\contentsline {chapter}{LIST OF TABLES}{xix}
+\contentsline {chapter}{LIST OF FIGURES}{xx}
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xxiii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Experimental populations}{2}
+\contentsline {subsection}{\numberline {1.1.1}Genetic reference populations}{3}
+\contentsline {subsection}{\numberline {1.1.2}Bi-parental populations}{3}
+\contentsline {subsection}{\numberline {1.1.3}Multiparental populations}{4}
+\contentsline {subsubsection}{\numberline {1.1.3.1}Heterogeneous Stock}{5}
+\contentsline {subsubsection}{\numberline {1.1.3.2}Collaborative Cross and related populations}{5}
+\contentsline {subsubsection}{\numberline {1.1.3.3}Multiparental populations in non-rodent model systems}{6}
+\contentsline {subsection}{\numberline {1.1.4}Diallel}{7}
+\contentsline {section}{\numberline {1.2}Experimental design}{9}
+\contentsline {subsection}{\numberline {1.2.1}Diallel-informed bi-parental cross selection}{9}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Quantitative analysis of the diallel}{9}
+\contentsline {subsubsection}{\numberline {1.2.1.2}DIDACT}{11}
+\contentsline {subsection}{\numberline {1.2.2}Power to detect QTL in the realized Collaborative Cross}{11}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Realized Collaborative Cross}{12}
+\contentsline {subsubsection}{\numberline {1.2.2.2}SPARCC}{12}
+\contentsline {section}{\numberline {1.3}Genetic association and related analyses}{12}
+\contentsline {subsection}{\numberline {1.3.1}Multiple imputation approach to QTL mapping in multiparental populations}{14}
+\contentsline {subsubsection}{\numberline {1.3.1.1}Developments in interval mapping}{14}
+\contentsline {subsubsection}{\numberline {1.3.1.2}False associations and problematic uncertainty and founder allele frequency}{15}
+\contentsline {subsubsection}{\numberline {1.3.1.3}Multiple imputation approach}{15}
+\contentsline {subsection}{\numberline {1.3.2}Analysis of heterogeneous stock rats}{17}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Imputed SNP association}{17}
+\contentsline {subsubsection}{\numberline {1.3.2.2}Fine-mapping approaches}{17}
+\contentsline {subsubsection}{\numberline {1.3.2.3}Gene expression as mediator of QTL effect on phenotype}{17}
+\contentsline {subsection}{\numberline {1.3.3}Integrative mediation analysis of gene expression and chromatin accessibility}{19}
+\contentsline {subsubsection}{\numberline {1.3.3.1}Description of CC data and analyses}{19}
+\contentsline {section}{\numberline {1.4}Summary}{21}
+\contentsline {chapter}{\numberline {2}Using the diallel to select optimal bi-parental crosses to map QTL}{22}
+\contentsline {section}{\numberline {2.1}Introduction}{22}
+\contentsline {section}{\numberline {2.2}Statistical Models and Methods}{27}
+\contentsline {subsection}{\numberline {2.2.1}Power to map QTL}{27}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Single QTL model of bi-parental cross}{27}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Power calculations}{30}
+\contentsline {subsection}{\numberline {2.2.2}Characterization of strain-level genetic effects from pilot data}{32}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Bayesian modeling of diallel data}{32}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Prior specification}{33}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Strain-level effect to QTL effect}{33}
+\contentsline {subsection}{\numberline {2.2.3}Decision theoretic approach}{34}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Power as utility function}{34}
+\contentsline {subsection}{\numberline {2.2.4}Availability of data and software}{37}
+\contentsline {section}{\numberline {2.3}Results}{38}
+\contentsline {subsection}{\numberline {2.3.1}Mendelian phenotype}{38}
+\contentsline {subsubsection}{\numberline {2.3.1.1}\textit {Mx1} as a critical host-resistance factor in mice:}{38}
+\contentsline {subsubsection}{\numberline {2.3.1.2}Expectations of DIDACT with a Mendelian trait}{40}
+\contentsline {subsection}{\numberline {2.3.2}Complex trait}{40}
+\contentsline {subsubsection}{\numberline {2.3.2.1}Calculated hemoglobin (cHGB):}{40}
+\contentsline {subsection}{\numberline {2.3.3}Additional summaries of information}{43}
+\contentsline {subsection}{\numberline {2.3.4}Parent-of-origin effects and RBC}{43}
+\contentsline {section}{\numberline {2.4}Discussion}{45}
+\contentsline {subsection}{\numberline {2.4.1}Assumptions connecting strain-level effect to QTL effect are wrong}{45}
+\contentsline {subsection}{\numberline {2.4.2}Genetic similarity between strains}{47}
+\contentsline {subsection}{\numberline {2.4.3}Extension to multiparental populations}{47}
+\contentsline {subsection}{\numberline {2.4.4}Summary}{48}
+\contentsline {chapter}{\numberline {3}SPARCC: An R package for estimating power to detect QTL through simulated experiments in the realized Collaborative Cross}{49}
+\contentsline {section}{\numberline {3.1}Introduction}{49}
+\contentsline {section}{\numberline {3.2}Methods}{50}
+\contentsline {subsection}{\numberline {3.2.1}Data simulation}{50}
+\contentsline {subsubsection}{\numberline {3.2.1.1}QTL effect}{51}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Strain effect}{52}
+\contentsline {subsubsection}{\numberline {3.2.1.3}Noise effect}{52}
+\contentsline {subsubsection}{\numberline {3.2.1.4}Robust power estimation}{53}
+\contentsline {subsection}{\numberline {3.2.2}Mapping procedure}{53}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Regression model}{53}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Significance thresholds and power}{54}
+\contentsline {subsubsection}{\numberline {3.2.2.3}QR decomposition for fast regression}{55}
+\contentsline {subsubsection}{\numberline {3.2.2.4}Performing genome scans}{56}
+\contentsline {subsection}{\numberline {3.2.3}Availability of data and software}{56}
+\contentsline {subsubsection}{\numberline {3.2.3.1}R package}{56}
+\contentsline {subsubsection}{\numberline {3.2.3.2}CC haplotype pair probabilities}{56}
+\contentsline {subsubsection}{\numberline {3.2.3.3}Haplotype data reduction}{57}
+\contentsline {section}{\numberline {3.3}Results and Discussion}{57}
+\contentsline {subsection}{\numberline {3.3.1}Simple SPARCC example}{57}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Run-time performance}{59}
+\contentsline {subsection}{\numberline {3.3.2}Large scale power dynamics}{59}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Computing environment}{60}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Experiment size and power}{60}
+\contentsline {subsubsection}{\numberline {3.3.2.3}Allelic series and power}{61}
+\contentsline {subsubsection}{\numberline {3.3.2.4}Statistical procedure assumes eight alleles}{61}
+\contentsline {subsubsection}{\numberline {3.3.2.5}Observed functional allele frequency imbalance}{61}
+\contentsline {subsection}{\numberline {3.3.3}CC as a mapping population}{62}
+\contentsline {subsection}{\numberline {3.3.4}Limitations}{62}
+\contentsline {subsection}{\numberline {3.3.5}Conclusion}{63}
+\contentsline {section}{\numberline {3.4}Simulation Documentation: Detailed description of \texttt {sim.CC.data()} options}{63}
+\contentsline {subsection}{\numberline {3.4.1}QTL effect}{63}
+\contentsline {subsection}{\numberline {3.4.2}Strain effect}{65}
+\contentsline {subsection}{\numberline {3.4.3}Additional options}{65}
+\contentsline {chapter}{\numberline {4}Accounting for haplotype uncertainty in QTL mapping of multiparental populations using multiple imputation}{71}
+\contentsline {section}{\numberline {4.1}Introduction}{71}
+\contentsline {section}{\numberline {4.2}Statistical Models and Methods}{78}
+\contentsline {subsection}{\numberline {4.2.1}General Framework}{78}
+\contentsline {subsection}{\numberline {4.2.2}Incorporating uncertainty in genetic state}{79}
+\contentsline {subsection}{\numberline {4.2.3}Modeling and sampling genetic state}{80}
+\contentsline {subsection}{\numberline {4.2.4}Conservative multiple imputation procedure}{81}
+\contentsline {subsection}{\numberline {4.2.5}Median as aggregate statistic}{82}
+\contentsline {subsection}{\numberline {4.2.6}Assessing genome-wide significance}{83}
+\contentsline {subsection}{\numberline {4.2.7}Availability of data and software}{83}
+\contentsline {section}{\numberline {4.3}Simulations}{84}
+\contentsline {subsection}{\numberline {4.3.1}Simulated populations}{84}
+\contentsline {subsection}{\numberline {4.3.2}Tested mapping procedures}{84}
+\contentsline {subsection}{\numberline {4.3.3}Simulation of uncertainty}{85}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Probability dilution:}{85}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Dirichlet sampling:}{86}
+\contentsline {section}{\numberline {4.4}Data Sets}{87}
+\contentsline {section}{\numberline {4.5}Results}{88}
+\contentsline {subsection}{\numberline {4.5.1}Illustration of false association with ROP}{88}
+\contentsline {subsection}{\numberline {4.5.2}Simulated results}{88}
+\contentsline {subsubsection}{\numberline {4.5.2.1}Dirichlet sampling:}{90}
+\contentsline {subsubsection}{\numberline {4.5.2.2}Probability dilution:}{92}
+\contentsline {subsection}{\numberline {4.5.3}More examples of results in real populations}{93}
+\contentsline {subsection}{\numberline {4.5.4}Founder haplotype frequency and haplotype uncertainty}{95}
+\contentsline {section}{\numberline {4.6}Discussion}{99}
+\contentsline {subsection}{\numberline {4.6.1}SNP association as an alternative to ROP}{100}
+\contentsline {subsection}{\numberline {4.6.2}Shrinkage as an alternative to ROP fixef}{100}
+\contentsline {subsection}{\numberline {4.6.3}Disparity between ROP in simulated and real data}{101}
+\contentsline {subsection}{\numberline {4.6.4}Summary}{102}
+\contentsline {section}{\numberline {4.7}Additional Figures}{104}
+\contentsline {chapter}{\numberline {5}QTL mapping in outbred rat population with imbalanced founder allele frequencies}{106}
+\contentsline {section}{\numberline {5.1}Introduction}{106}
+\contentsline {section}{\numberline {5.2}Methods and Procedures}{107}
+\contentsline {subsection}{\numberline {5.2.1}Animals}{107}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Heterogeneous stock colony}{107}
+\contentsline {subsubsection}{\numberline {5.2.1.2}Founding inbred sub-strains}{107}
+\contentsline {subsection}{\numberline {5.2.2}Phenotyping protocol}{107}
+\contentsline {subsection}{\numberline {5.2.3}Genotyping}{108}
+\contentsline {subsection}{\numberline {5.2.4}RNA-Seq}{108}
+\contentsline {section}{\numberline {5.3}Statistical Analysis}{109}
+\contentsline {subsection}{\numberline {5.3.1}Estimating heritability of adiposity traits}{109}
+\contentsline {subsection}{\numberline {5.3.2}Genome-wide association}{109}
+\contentsline {subsection}{\numberline {5.3.3}Fine-mapping and haplotype effect estimation at detected QTL}{109}
+\contentsline {subsection}{\numberline {5.3.4}Candidate gene identification}{110}
+\contentsline {section}{\numberline {5.4}Results}{110}
+\contentsline {subsection}{\numberline {5.4.1}HS founder strains exhibit large variation in adiposity traits}{110}
+\contentsline {subsection}{\numberline {5.4.2}Adiposity traits are highly correlated with measures of metabolic health in HS rats}{111}
+\contentsline {subsection}{\numberline {5.4.3}Adiposity traits are highly heritable}{112}
+\contentsline {subsection}{\numberline {5.4.4}RetroFat QTL on chromsomes 1 and 6}{112}
+\contentsline {subsection}{\numberline {5.4.5}Identification of \textit {Adcy3}, \textit {Krtcap3}, \textit {Slc30a3} within the chromosome 6 RetroFat QTL}{114}
+\contentsline {subsection}{\numberline {5.4.6}Identification of \textit {Prlhr} within the chromosome 1 RetroFat QTL}{114}
+\contentsline {section}{\numberline {5.5}Body weight QTL on chromosome 4 and identification of \textit {Grid2}}{118}
+\contentsline {section}{\numberline {5.6}Discussion}{118}
+\contentsline {section}{\numberline {5.7}Detailed Methods}{123}
+\contentsline {subsection}{\numberline {5.7.1}Animals}{123}
+\contentsline {subsubsection}{\numberline {5.7.1.1}Housing}{123}
+\contentsline {subsection}{\numberline {5.7.2}Statistical genetic analysis}{123}
+\contentsline {subsubsection}{\numberline {5.7.2.1}Modeling genetic effects on adiposity}{123}
+\contentsline {subsubsection}{\numberline {5.7.2.2}Heritability estimation}{124}
+\contentsline {subsubsection}{\numberline {5.7.2.3}QTL mapping}{124}
+\contentsline {subsubsection}{\numberline {5.7.2.4}Fine-mapping through Group-LASSO with fractional resample model averaging}{125}
+\contentsline {subsubsection}{\numberline {5.7.2.5}Estimating haplotype substitution effects at detected QTL}{126}
+\contentsline {subsubsection}{\numberline {5.7.2.6}Analysis of RNA-Seq data}{126}
+\contentsline {subsection}{\numberline {5.7.3}Mediation analysis of phenotype, expression, and QTL}{127}
+\contentsline {subsection}{\numberline {5.7.4}Mediation analysis results}{129}
+\contentsline {subsubsection}{\numberline {5.7.4.1}Body weight chromosome 4 locus}{130}
+\contentsline {subsubsection}{\numberline {5.7.4.2}RetroFat chromosome 1 locus}{130}
+\contentsline {subsubsection}{\numberline {5.7.4.3}RetroFat chromosome 6 locus}{130}
+\contentsline {section}{\numberline {5.8}Additional Figures}{130}
+\contentsline {chapter}{\numberline {6}Detecting chromatin accessibility as a mediator of gene expression in Collaborative Cross mice}{144}
+\contentsline {section}{\numberline {6.1}Introduction}{144}
+\contentsline {section}{\numberline {6.2}Materials and Methods}{146}
+\contentsline {subsection}{\numberline {6.2.1}Animals}{146}
+\contentsline {subsection}{\numberline {6.2.2}Collaborative Cross reference genomes and transcriptomes}{146}
+\contentsline {subsection}{\numberline {6.2.3}mRNA sequencing and processing}{147}
+\contentsline {subsection}{\numberline {6.2.4}ATAC-Seq data processing}{147}
+\contentsline {subsection}{\numberline {6.2.5}Chromatin accessibility quantification and windowing}{148}
+\contentsline {subsection}{\numberline {6.2.6}Outcome filtering for eQTL and cQTL mapping}{149}
+\contentsline {subsection}{\numberline {6.2.7}Founder haplotype data reduction}{149}
+\contentsline {subsection}{\numberline {6.2.8}Differential expression and chromatin accessibility analysis}{150}
+\contentsline {subsection}{\numberline {6.2.9}Gene set association analysis}{150}
+\contentsline {subsection}{\numberline {6.2.10}QTL mapping}{151}
+\contentsline {subsection}{\numberline {6.2.11}QTL mapping family-wide error rate (FWER) control}{152}
+\contentsline {subsection}{\numberline {6.2.12}eQTL and cQTL false discovery rate (FDR) control}{153}
+\contentsline {subsection}{\numberline {6.2.13}Detection of multiple QTL per outcome}{153}
+\contentsline {subsection}{\numberline {6.2.14}Genome-wide and local chromosome-wide significance}{154}
+\contentsline {subsection}{\numberline {6.2.15}Formal mediation analysis}{155}
+\contentsline {subsection}{\numberline {6.2.16}Genome-wide mediation analysis}{156}
+\contentsline {subsection}{\numberline {6.2.17}Mediation scan significance thresholds}{158}
+\contentsline {section}{\numberline {6.3}Preliminary Results and Discussion}{158}
+\contentsline {subsection}{\numberline {6.3.1}Summaries of the number of associations}{158}
+\contentsline {subsubsection}{\numberline {6.3.1.1}eQTL}{158}
+\contentsline {subsubsection}{\numberline {6.3.1.2}cQTL}{158}
+\contentsline {subsubsection}{\numberline {6.3.1.3}Mediation}{159}
+\contentsline {subsection}{\numberline {6.3.2}eQTL and cQTL mapping results}{160}
+\contentsline {subsection}{\numberline {6.3.3}Mediation results}{160}
+\contentsline {subsubsection}{\numberline {6.3.3.1}Identifying co-localizing eQTL and cQTL with mediation and without}{163}
+\contentsline {subsubsection}{\numberline {6.3.3.2}eQTL, cQTL, and mediation are highly local}{163}
+\contentsline {subsubsection}{\numberline {6.3.3.3}Detection of alignment issue in chromatin accessibility data}{163}
+\contentsline {subsection}{\numberline {6.3.4}Distance from QTL or mediator to outcome}{165}
+\contentsline {subsection}{\numberline {6.3.5}Buffering of eQTL effect from cQTL effect}{166}
+\contentsline {subsection}{\numberline {6.3.6}Frequency of distal-QTL signal in comparison to local-QTL}{169}
+\contentsline {subsection}{\numberline {6.3.7}Complexity of the underlying mediation}{170}
+\contentsline {subsection}{\numberline {6.3.8}Summary}{170}
+\contentsline {section}{\numberline {6.4}Additional Figures}{171}
+\contentsline {chapter}{\numberline {7}Concluding remarks}{172}
+\contentsline {section}{\numberline {7.1}Experimental design}{173}
+\contentsline {subsection}{\numberline {7.1.1}Using the diallel to select optimal bi-parental crosses to map QTL}{173}
+\contentsline {subsection}{\numberline {7.1.2}Simulated power to map QTL in the realized Collaborative Cross}{173}
+\contentsline {section}{\numberline {7.2}Genetic association and related analyses}{174}
+\contentsline {subsection}{\numberline {7.2.1}Accounting for haplotype uncertainty in QTL mapping of multiparental populations using multiple imputation}{174}
+\contentsline {subsection}{\numberline {7.2.2}QTL mapping in outbred rat population with imbalanced founder allele frequencies}{175}
+\contentsline {subsection}{\numberline {7.2.3}Detecting chromatin accessibility as a mediator of gene expression in Collaborative Cross mice}{176}
+\contentsline {section}{\numberline {7.3}Final conclusion}{177}
+\contentsline {chapter}{BIBLIOGRAPHY}{178}

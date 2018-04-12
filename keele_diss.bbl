@@ -1,0 +1,1836 @@
+\begin{thebibliography}{}
+
+\bibitem[Acar and Sun, 2013]{Acar2013}
+Acar, E.~F. and Sun, L. (2013).
+\newblock {A generalized kruskal-wallis test incorporating group uncertainty
+  with application to genetic association studies}.
+\newblock {\em Biometrics}, 69(2):427--435.
+
+\bibitem[Alasoo et~al., 2018]{Alasoo2017}
+Alasoo, K., Rodrigues, J., Mukhopadhyay, S., Knights, A.~J., Mann, A.~L.,
+  Kundu, K., {HIPSCI Consortium}, Hale, C., Dougan, G., and Gaffney, D.~J.
+  (2018).
+\newblock {Shared genetic effects on chromatin and gene expression indicate a
+  role for enhancer priming in immune response.}
+\newblock {\em Nature genetics}, page 102392.
+
+\bibitem[Allard, 1999]{Allard1999}
+Allard, R.~W. (1999).
+\newblock {History of Plant Population Genetics}.
+\newblock {\em Annual Review of Genetics}, 33(1):1--27.
+
+\bibitem[Aulchenko et~al., 2010]{Aulchenko2010}
+Aulchenko, Y.~S., Struchalin, M.~V., and van Duijn, C.~M. (2010).
+\newblock {ProbABEL package for genome-wide association analysis of imputed
+  data.}
+\newblock {\em BMC bioinformatics}, 11:134.
+
+\bibitem[Aylor et~al., 2011]{Aylor2011}
+Aylor, D.~L., Valdar, W., Foulds-mathes, W., Buus, R.~J., Verdugo, R.~A.,
+  Baric, R.~S., Ferris, M.~T., Frelinger, J.~A., Heise, M., Frieman, M.~B.,
+  Gralinski, L.~E., Bell, T.~A., Didion, J.~D., Hua, K., Nehrenberg, D.~L.,
+  Powell, C.~L., Steigerwalt, J., Xie, Y., Kelada, S. N.~P., Collins, F.~S.,
+  Yang, I.~V., Schwartz, D.~A., Branstetter, L.~A., Chesler, E.~J., Miller,
+  D.~R., Spence, J., Liu, E.~Y., Mcmillan, L., Sarkar, A., Wang, J., Wang, W.,
+  Zhang, Q., Broman, K.~W., Korstanje, R., Durrant, C., Mott, R., Iraqi, F.~A.,
+  Pomp, D., Threadgill, D., Villena, F. P.-m.~D., and Churchill, G.~A. (2011).
+\newblock {Genetic analysis of complex traits in the emerging Collaborative
+  Cross}.
+\newblock {\em Genome research}, 21:1213--22.
+
+\bibitem[Bahari et~al., 2012]{Bahari2012}
+Bahari, M., Rafii, M.~Y., Saleh, G.~B., and Latif, M.~A. (2012).
+\newblock {Combining Ability Analysis in Complete Diallel Cross of Watermelon (
+  Citrullus lanatus (Thunb.) Matsum. {\&} Nakai)}.
+\newblock {\em The Scientific World Journal}, 2012:1--6.
+
+\bibitem[Bandillo et~al., 2013]{Bandillo2013}
+Bandillo, N., Raghavan, C., Muyco, P.~A., Sevilla, M. A.~L., Lobina, I.~T.,
+  Dilla-Ermita, C.~J., Tung, C.-W., McCouch, S., Thomson, M., Mauleon, R.,
+  Singh, R.~K., Gregorio, G., Redo{\~{n}}a, E., and Leung, H. (2013).
+\newblock {Multi-parent advanced generation inter-cross (MAGIC) populations in
+  rice: progress and potential for genetics research and breeding.}
+\newblock {\em Rice (New York, N.Y.)}, 6(1):11.
+
+\bibitem[Baron and Kenny, 1986]{Baron1986}
+Baron, R.~M. and Kenny, D.~A. (1986).
+\newblock {The moderator-mediator variable distinction in social psychological
+  research: conceptual, strategic, and statistical considerations.}
+\newblock {\em Journal of personality and social psychology}, 51(6):1173--82.
+
+\bibitem[Battle et~al., 2015]{Battle2015}
+Battle, A., Khan, Z., Wang, S.~H., Mitrano, A., Ford, M.~J., Pritchard, J.~K.,
+  and Gilad, Y. (2015).
+\newblock {Genomic variation. Impact of regulatory variation from RNA to
+  protein.}
+\newblock {\em Science (New York, N.Y.)}, 347(6222):664--7.
+
+\bibitem[Battle et~al., 2014]{Battle2014}
+Battle, A., Mostafavi, S., Zhu, X., Potash, J.~B., Weissman, M.~M., McCormick,
+  C., Haudenschild, C.~D., Beckman, K.~B., Shi, J., Mei, R., Urban, A.~E.,
+  Montgomery, S.~B., Levinson, D.~F., and Koller, D. (2014).
+\newblock {Characterizing the genetic basis of transcriptome diversity through
+  RNA-sequencing of 922 individuals.}
+\newblock {\em Genome research}, 24(1):14--24.
+
+\bibitem[Baud et~al., 2014]{Baud2014}
+Baud, A., Guryev, V., Hummel, O., Johannesson, M., {Rat Genome Sequencing and
+  Mapping Consortium}, and Flint, J. (2014).
+\newblock {Genomes and phenomes of a population of outbred rats and its
+  progenitors}.
+\newblock {\em Scientific data}, 1:140011.
+
+\bibitem[Baud et~al., 2013]{Baud2013}
+Baud, A., Hermsen, R., Guryev, V., Stridh, P., Graham, D., McBride, M.~W.,
+  Foroud, T., Calderari, S., Diez, M., Ockinger, J., Beyeen, A.~D., Gillett,
+  A., Abdelmagid, N., Guerreiro-Cacais, A.~O., Jagodic, M., Tuncel, J., Norin,
+  U., Beattie, E., Huynh, N., Miller, W.~H., Koller, D.~L., Alam, I., Falak,
+  S., Osborne-Pellegrin, M., Martinez-Membrives, E., Canete, T., Blazquez, G.,
+  Vicens-Costa, E., Mont-Cardona, C., Diaz-Moran, S., Tobena, A., Hummel, O.,
+  Zelenika, D., Saar, K., Patone, G., Bauerfeind, A., Bihoreau, M.-T., Heinig,
+  M., Lee, Y.-A., Rintisch, C., Schulz, H., Wheeler, D.~A., Worley, K.~C.,
+  Muzny, D.~M., Gibbs, R.~A., Lathrop, M., Lansu, N., Toonen, P., Ruzius,
+  F.~P., de~Bruijn, E., Hauser, H., Adams, D.~J., Keane, T., Atanur, S.~S.,
+  Aitman, T.~J., Flicek, P., Malinauskas, T., Jones, E.~Y., Ekman, D.,
+  Lopez-Aumatell, R., Dominiczak, A.~F., Johannesson, M., Holmdahl, R., Olsson,
+  T., Gauguier, D., Hubner, N., Fernandez-Teruel, A., Cuppen, E., Mott, R., and
+  Flint, J. (2013).
+\newblock {Combined sequence-based and genetic mapping analysis of complex
+  traits in outbred rats.}
+\newblock {\em Nature genetics}, 45(7):767--75.
+
+\bibitem[Belknap and Atkins, 2001]{Belknap2001}
+Belknap, J.~K. and Atkins, A.~L. (2001).
+\newblock {The replicability of QTLs for murine alcohol preference drinking
+  behavior across eight independent studies.}
+\newblock {\em Mammalian genome : official journal of the International
+  Mammalian Genome Society}, 12(12):893--9.
+
+\bibitem[Benjamini et~al., 1995]{Benjamini1995}
+Benjamini, Y., Hochberg, Y., Society, R.~S., Benajmini, Y., Hochberg, Y.,
+  Society, R.~S., Benjamini, y.~Y., Hochberg, Y., Benajmini, Y., Hochberg, Y.,
+  Society, R.~S., Benajmini, Y., Hochberg, Y., Society, R.~S., Benjamini,
+  y.~Y., and Hochberg, Y. (1995).
+\newblock {Controlling the False Discovery Rate : A Practical and Powerful
+  Approach to Multiple Testing}.
+\newblock {\em Journal of the Royal Statistical Society, Series B},
+  57(1):289--300.
+
+\bibitem[B{\'{e}}r{\'{e}}nos et~al., 2014]{Berenos2014a}
+B{\'{e}}r{\'{e}}nos, C., Ellis, P.~A., Pilkington, J.~G., and Pemberton, J.~M.
+  (2014).
+\newblock {Estimating quantitative genetic parameters in wild populations: a
+  comparison of pedigree and genomic approaches.}
+\newblock {\em Molecular ecology}, 23(14):3434--51.
+
+\bibitem[Birchler et~al., 2006]{Birchler2006}
+Birchler, J.~a., Yao, H., and Chudalayandi, S. (2006).
+\newblock {Unraveling the genetic basis of hybrid vigor}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  103(35):12957--12958.
+
+\bibitem[Bogue et~al., 2015]{Bogue2015}
+Bogue, M.~A., Churchill, G.~A., and Chesler, E.~J. (2015).
+\newblock {Collaborative Cross and Diversity Outbred data resources in the
+  Mouse Phenome Database}.
+\newblock {\em Mammalian Genome}, 26(9-10):511--520.
+
+\bibitem[Bouchet et~al., 2017]{Bouchet2017}
+Bouchet, S., Olatoye, M.~O., Marla, S.~R., Perumal, R., Tesso, T., Yu, J.,
+  Tuinstra, M., and Morris, G.~P. (2017).
+\newblock {Increased Power To Dissect Adaptive Traits in Global Sorghum
+  Diversity Using a Nested Association Mapping Population}.
+\newblock {\em Genetics}, 206(June):573--585.
+
+\bibitem[Broman, 2001]{Broman2001}
+Broman, K.~W. (2001).
+\newblock {Review of statistical methods for QTL mapping in experimental
+  crosses.}
+\newblock {\em Lab animal}, 30(7):44--52.
+
+\bibitem[Broman, 2016]{Broman2016}
+Broman, K.~W. (2016).
+\newblock {\em qtl2geno: Treatment of Marker Genotypes for QTL Experiments}.
+\newblock R package version 0.4-23.
+
+\bibitem[Broman, 2017]{Broman2017}
+Broman, K.~W. (2017).
+\newblock {\em qtl2scan: Genome Scans for QTL Experiments}.
+\newblock R package version 0.5-13.
+
+\bibitem[Broman and Sen, 2009]{Broman2009}
+Broman, K.~W. and Sen, S. (2009).
+\newblock {\em {A Guide to QTL Mapping with R/qtl}}.
+\newblock Statistics for Biology and Health. Springer New York, New York, NY.
+
+\bibitem[Buckler et~al., 2009]{Buckler2009}
+Buckler, E.~S., Holland, J.~B., Bradbury, P.~J., Acharya, C.~B., Brown, P.~J.,
+  Browne, C., Ersoz, E., Flint-Garcia, S., Garcia, A., Glaubitz, J.~C.,
+  Goodman, M.~M., Harjes, C., Guill, K., Kroon, D.~E., Larsson, S., Lepak,
+  N.~K., Li, H., Mitchell, S.~E., Pressoir, G., Peiffer, J.~a., Rosas, M.~O.,
+  Rocheford, T.~R., Romay, M.~C., Romero, S., Salvo, S., {Sanchez Villeda}, H.,
+  da~Silva, H.~S., Sun, Q., Tian, F., Upadyayula, N., Ware, D., Yates, H., Yu,
+  J., Zhang, Z., Kresovich, S., and McMullen, M.~D. (2009).
+\newblock {The genetic architecture of maize flowering time.}
+\newblock {\em Science (New York, N.Y.)}, 325(5941):714--718.
+
+\bibitem[Carbonetto et~al., 2014]{Carbonetto2014}
+Carbonetto, P., Cheng, R., Gyekis, J.~P., Parker, C.~C., Blizard, D.~A.,
+  Palmer, A.~A., and Lionikas, A. (2014).
+\newblock {Discovery and refinement of muscle weight QTLs in B6 × D2 advanced
+  intercross mice.}
+\newblock {\em Physiological genomics}, 46(16):571--82.
+
+\bibitem[Casares et~al., 1992]{Casares1992}
+Casares, P., Carracedo, M.~C., Pi{\~{n}}eiro, R., Miguel, E.~S., and
+  Garcia-Florez, L. (1992).
+\newblock {Genetic basis for female receptivity in Drosophila melanogaster: a
+  diallel study}.
+\newblock {\em Heredity}, 69(5):400--405.
+
+\bibitem[Casellas, 2011]{Casellas2011}
+Casellas, J. (2011).
+\newblock {Inbred mouse strains and genetic stability: a review.}
+\newblock {\em Animal : an international journal of animal bioscience},
+  5(1):1--7.
+
+\bibitem[Chick et~al., 2016]{Chick2016}
+Chick, J.~M., Munger, S.~C., Simecek, P., Huttlin, E.~L., Choi, K., Gatti,
+  D.~M., Raghupathy, N., Svenson, K.~L., Churchill, G.~A., and Gygi, S.~P.
+  (2016).
+\newblock {Defining the consequences of genetic variation on a proteome-wide
+  scale.}
+\newblock {\em Nature}, 534(7608):500--5.
+
+\bibitem[Churchill et~al., 2012]{Churchill2012}
+Churchill, G., Gatti, D., Munger, S., and Svenson, K. (2012).
+\newblock {The Diversity outbred mouse population}.
+\newblock {\em Mammalian Genome}, 23:713--8.
+
+\bibitem[Churchill et~al., 2004]{Churchill2004}
+Churchill, G.~A., Airey, D.~C., Allayee, H., Angel, J.~M., Attie, A.~D.,
+  Beatty, J., Beavis, W.~D., Belknap, J.~K., Bennett, B., Berrettini, W.,
+  Bleich, A., Bogue, M., Broman, K.~W., Buck, K.~J., Buckler, E., Burmeister,
+  M., Chesler, E.~J., Cheverud, J.~M., Clapcote, S., Cook, M.~N., Cox, R.~D.,
+  Crabbe, J.~C., Crusio, W.~E., Darvasi, A., Deschepper, C.~F., Doerge, R.~W.,
+  Farber, C.~R., Forejt, J., Gaile, D., Garlow, S.~J., Geiger, H., Gershenfeld,
+  H., Gordon, T., Gu, J., Gu, W., de~Haan, G., Hayes, N.~L., Heller, C.,
+  Himmelbauer, H., Hitzemann, R., Hunter, K., Hsu, H.-C., Iraqi, F.~a.,
+  Ivandic, B., Jacob, H.~J., Jansen, R.~C., Jepsen, K.~J., Johnson, D.~K.,
+  Johnson, T.~E., Kempermann, G., Kendziorski, C., Kotb, M., Kooy, R.~F.,
+  Llamas, B., Lammert, F., Lassalle, J.-M., Lowenstein, P.~R., Lu, L., Lusis,
+  A., Manly, K.~F., Marcucio, R., Matthews, D., Medrano, J.~F., Miller, D.~R.,
+  Mittleman, G., Mock, B.~a., Mogil, J.~S., Montagutelli, X., Morahan, G.,
+  Morris, D.~G., Mott, R., Nadeau, J.~H., Nagase, H., Nowakowski, R.~S.,
+  O'Hara, B.~F., Osadchuk, A.~V., Page, G.~P., Paigen, B., Paigen, K., Palmer,
+  A.~a., Pan, H.-J., Peltonen-Palotie, L., Peirce, J., Pomp, D., Pravenec, M.,
+  Prows, D.~R., Qi, Z., Reeves, R.~H., Roder, J., Rosen, G.~D., Schadt, E.~E.,
+  Schalkwyk, L.~C., Seltzer, Z., Shimomura, K., Shou, S.,
+  Sillanp{\"{a}}{\"{a}}, M.~J., Siracusa, L.~D., Snoeck, H.-W., Spearow, J.~L.,
+  Svenson, K., Tarantino, L.~M., Threadgill, D., Toth, L.~a., Valdar, W.,
+  de~Villena, F. P.-M., Warden, C., Whatley, S., Williams, R.~W., Wiltshire,
+  T., Yi, N., Zhang, D., Zhang, M., and Zou, F. (2004).
+\newblock {The Collaborative Cross, a community resource for the genetic
+  analysis of complex traits}.
+\newblock {\em Nature Genetics}, 36(11):1133--1137.
+
+\bibitem[{Collaborative Cross Consortium}, 2012]{Hall2012}
+{Collaborative Cross Consortium} (2012).
+\newblock {The genome architecture of the Collaborative Cross mouse genetic
+  reference population.}
+\newblock {\em Genetics}, 190(2):389--401.
+
+\bibitem[Connolly and Heron, 2015]{Connolly2014}
+Connolly, S. and Heron, E.~a. (2015).
+\newblock {Review of statistical methodologies for the detection of
+  parent-of-origin effects in family trio genome-wide association data with
+  binary disease traits}.
+\newblock {\em Briefings in Bioinformatics}, 16(3):429--448.
+
+\bibitem[Crawford et~al., 2017]{Crawford2015}
+Crawford, L., Wood, K.~C., Zhou, X., and Mukherjee, S. (2017).
+\newblock {Bayesian Approximate Kernel Regression with Variable Selection}.
+\newblock {\em Journal of the American Statistical Association},
+  1459(November):0--0.
+
+\bibitem[Crowley et~al., 2014]{Crowley2014}
+Crowley, J.~J., Kim, Y., Lenarcic, A.~B., Quackenbush, C.~R., Barrick, C.~J.,
+  Adkins, D.~E., Shaw, G.~S., Miller, D.~R., de~Villena, F. P.~M., Sullivan,
+  P.~F., and Valdar, W. (2014).
+\newblock {Genetics of adverse reactions to haloperidol in a mouse diallel: A
+  drug-placebo experiment and Bayesian causal analysis}.
+\newblock {\em Genetics}, 196(1):321--347.
+
+\bibitem[Cubillos et~al., 2017]{Cubillos2017}
+Cubillos, F.~A., Brice, C., Molinet, J., Tisn{\'{e}}, S., Abarca, V., Tapia,
+  S.~M., Oporto, C., Garc{\'{i}}a, V., Liti, G., and Mart{\'{i}}nez, C. (2017).
+\newblock {Identification of Nitrogen Consumption Genetic Variants in Yeast
+  Through QTL Mapping and Bulk Segregant RNA-Seq Analyses}.
+\newblock {\em G3}, 7(6):1693--1705.
+
+\bibitem[Darvasi and Soller, 1995]{Darvasi1995}
+Darvasi, A. and Soller, M. (1995).
+\newblock {Advanced intercross lines, an experimental population for fine
+  genetic mapping.}
+\newblock {\em Genetics}, 141(3):1199--207.
+
+\bibitem[Degner et~al., 2012]{Degner2012}
+Degner, J.~F., Pai, A.~A., Pique-Regi, R., Veyrieras, J.-B., Gaffney, D.~J.,
+  Pickrell, J.~K., {De Leon}, S., Michelini, K., Lewellen, N., Crawford, G.~E.,
+  Stephens, M., Gilad, Y., and Pritchard, J.~K. (2012).
+\newblock {DNase I sensitivity QTLs are a major determinant of human expression
+  variation.}
+\newblock {\em Nature}, 482(7385):390--4.
+
+\bibitem[Dempster et~al., 1977]{Dempster1977}
+Dempster, A., Laird, N., and Rubin, D.~B. (1977).
+\newblock {Maximum likelihood from incomplete data via the EM algorithm}.
+\newblock {\em Journal of the Royal Statistical Society Series B
+  Methodological}, 39(1):1--38.
+
+\bibitem[Devlin and Roeder, 1999]{Devlin1999}
+Devlin, B. and Roeder, K. (1999).
+\newblock {Genomic control for association studies.}
+\newblock {\em Biometrics}, 55(4):997--1004.
+
+\bibitem[Dietrich and Horvath, 2013]{Dietrich2013}
+Dietrich, M.~O. and Horvath, T.~L. (2013).
+\newblock {Hypothalamic control of energy balance: insights into the role of
+  synaptic plasticity.}
+\newblock {\em Trends in neurosciences}, 36(2):65--73.
+
+\bibitem[Doerge and Churchill, 1996]{Doerge1996}
+Doerge, R. and Churchill, G. (1996).
+\newblock {Permutation tests for multiple loci affecting a quantitative
+  character}.
+\newblock {\em Genetics}, 142(1977):285--94.
+
+\bibitem[Donoghue et~al., 2017]{Donoghue2017}
+Donoghue, L.~J., Livraghi-Butrico, A., McFadden, K.~M., Thomas, J.~M., Chen,
+  G., Grubb, B.~R., O'Neal, W.~K., Boucher, R.~C., and Kelada, S. N.~P. (2017).
+\newblock {Identification of trans Protein QTL for Secreted Airway Mucins in
+  Mice and a Causal Role for Bpifb1.}
+\newblock {\em Genetics}, 207(2):801--812.
+
+\bibitem[{Dos Santos} et~al., 2016]{DosSantos2016}
+{Dos Santos}, E.~A., de~Almeida, A.-A.~F., Ahnert, D., Branco, M. C. d.~S.,
+  Valle, R.~R., and Baligar, V.~C. (2016).
+\newblock {Diallel Analysis and Growth Parameters as Selection Tools for
+  Drought Tolerance in Young Theobroma cacao Plants.}
+\newblock {\em PloS one}, 11(8):e0160647.
+
+\bibitem[Dudbridge and Koeleman, 2004]{Dudbridge2004}
+Dudbridge, F. and Koeleman, B.~P. (2004).
+\newblock {Efficient Computation of Significance Levels for Multiple
+  Associations in Large Studies of Correlated Data, Including Genomewide
+  Association Studies}.
+\newblock {\em The American Journal of Human Genetics}, 75(3):424--435.
+
+\bibitem[Dupuis and Siegmund, 1999]{Dupuis1999}
+Dupuis, J. and Siegmund, D. (1999).
+\newblock {Statistical methods for mapping quantitative trait loci from a dense
+  set of markers}.
+\newblock {\em Genetics}, 151:373--86.
+
+\bibitem[Durrant and Mott, 2010]{Durrant2010}
+Durrant, C. and Mott, R. (2010).
+\newblock {Bayesian quantitative trait locus mapping using inferred
+  haplotypes.}
+\newblock {\em Genetics}, 184(3):839--52.
+
+\bibitem[Ellacott et~al., 2005]{Ellacott2005}
+Ellacott, K. L.~J., Donald, E.~L., Clarkson, P., Morten, J., Masters, D.,
+  Brennand, J., and Luckman, S.~M. (2005).
+\newblock {Characterization of a naturally-occurring polymorphism in the UHR-1
+  gene encoding the putative rat prolactin-releasing peptide receptor.}
+\newblock {\em Peptides}, 26(4):675--81.
+
+\bibitem[Emdin et~al., 2017]{Emdin2017a}
+Emdin, C.~A., Khera, A.~V., Natarajan, P., Klarin, D., Zekavat, S.~M., Hsiao,
+  A.~J., and Kathiresan, S. (2017).
+\newblock {Genetic Association of Waist-to-Hip Ratio With Cardiometabolic
+  Traits, Type 2 Diabetes, and Coronary Heart Disease.}
+\newblock {\em JAMA}, 317(6):626--634.
+
+\bibitem[Fairfull et~al., 1983]{Emsley1983}
+Fairfull, R.~W., Gowe, R.~S., and Emsley, J. A.~B. (1983).
+\newblock {Diallel cross of six longterm selected leghorn strains with emphasis
+  on heterosis and reciprocal effects}.
+\newblock {\em British Poultry Science}, 24(2):133--158.
+
+\bibitem[Falke and Frisch, 2011]{Falke2011}
+Falke, K.~C. and Frisch, M. (2011).
+\newblock {Power and false-positive rate in QTL detection with near-isogenic
+  line libraries}.
+\newblock {\em Heredity}, 106(4):576--584.
+
+\bibitem[Ferris et~al., 2013]{Ferris2013}
+Ferris, M.~T., Aylor, D.~L., Bottomly, D., Whitmore, A.~C., Aicher, L.~D.,
+  Bell, T.~A., Bradel-Tretheway, B., Bryan, J.~T., Buus, R.~J., Gralinski,
+  L.~E., Haagmans, B.~L., McMillan, L., Miller, D.~R., Rosenzweig, E., Valdar,
+  W., Wang, J., Churchill, G.~A., Threadgill, D.~W., McWeeney, S.~K., Katze,
+  M.~G., {Pardo-Manuel de Villena}, F., Baric, R.~S., and Heise, M.~T. (2013).
+\newblock {Modeling Host Genetic Regulation of Influenza Pathogenesis in the
+  Collaborative Cross}.
+\newblock {\em PLoS Pathogens}, 9(2):e1003196.
+
+\bibitem[Flegal et~al., 2016]{Flegal2016}
+Flegal, K.~M., Kruszon-Moran, D., Carroll, M.~D., Fryar, C.~D., and Ogden,
+  C.~L. (2016).
+\newblock {Trends in Obesity Among Adults in the United States, 2005 to 2014.}
+\newblock {\em JAMA}, 315(21):2284--91.
+
+\bibitem[Fu et~al., 2012]{Fu2012}
+Fu, C.-P., Welsh, C.~E., de~Villena, F. P.-M., and McMillan, L. (2012).
+\newblock {Inferring ancestry in admixed populations using microarray probe
+  intensities}.
+\newblock In {\em Proceedings of the ACM Conference on Bioinformatics,
+  Computational Biology and Biomedicine - BCB '12}, pages 105--112, New York,
+  New York, USA. ACM Press.
+
+\bibitem[Gatti et~al., 2014]{Gatti2014}
+Gatti, D.~M., Svenson, K.~L., Shabalin, A., Wu, L.-Y., Valdar, W., Simecek, P.,
+  Goodwin, N., Cheng, R., Pomp, D., Palmer, A., Chesler, E.~J., Broman, K.~W.,
+  and Churchill, G.~A. (2014).
+\newblock {Quantitative Trait Locus Mapping Methods for Diversity Outbred
+  Mice}.
+\newblock {\em G3}, 4(9):1623--1633.
+
+\bibitem[{Ghareeb Zeinab} and Helal, 2014]{GhareebZeinab2014}
+{Ghareeb Zeinab}, E. and Helal, A. (2014).
+\newblock {Diallel analysis and separation of genetic variance components in
+  eight faba bean genotypes}.
+\newblock {\em Annals of Agricultural Sciences}, 59(1):147--154.
+
+\bibitem[Gibbs et~al., 2003]{Gibbs2003}
+Gibbs, R.~A., Belmont, J.~W., Hardenbol, P., Willis, T.~D., Yu, F., Yang, H.,
+  Ch'ang, L.-Y., Huang, W., Liu, B., and Shen, Y. (2003).
+\newblock {The international HapMap project}.
+\newblock {\em Nature}, 426(6968):789--796.
+
+\bibitem[Gilbert, 1958]{Gilbert1958}
+Gilbert, N. E.~G. (1958).
+\newblock {Diallel cross in plant breeding}.
+\newblock {\em Heredity}, 12(4):477--492.
+
+\bibitem[Gonzalez et~al., 2016]{Gonzalez2016}
+Gonzalez, P.~N., Pavlicev, M., Mitteroecker, P., {Pardo-Manuel de Villena}, F.,
+  Spritz, R.~A., Marcucio, R.~S., and Hallgr{\'{i}}msson, B. (2016).
+\newblock {Genetic structure of phenotypic robustness in the collaborative
+  cross mouse diallel panel}.
+\newblock {\em Journal of Evolutionary Biology}, 29(9):1737--1751.
+
+\bibitem[Gonzalo et~al., 2007]{Gonzalo2007}
+Gonzalo, M., Vyn, T.~J., Holland, J.~B., and McIntyre, L.~M. (2007).
+\newblock {Mapping reciprocal effects and interactions with plant density
+  stress in Zea mays L.}
+\newblock {\em Heredity}, 99(1):14--30.
+
+\bibitem[Graham et~al., 2015]{Graham2015}
+Graham, J.~B., Thomas, S., Swarts, J., McMillan, A.~A., Ferris, M.~T., Suthar,
+  M.~S., Treuting, P.~M., Ireton, R., Gale, M., and Lund, J.~M. (2015).
+\newblock {Genetic diversity in the collaborative cross model recapitulates
+  human West Nile virus disease outcomes.}
+\newblock {\em mBio}, 6(3):e00493--15.
+
+\bibitem[Gralinski et~al., 2015]{Gralinski2015}
+Gralinski, L.~E., Ferris, M.~T., Aylor, D.~L., Whitmore, A.~C., Green, R.,
+  Frieman, M.~B., Deming, D., Menachery, V.~D., Miller, D.~R., Buus, R.~J.,
+  Bell, T.~A., Churchill, G.~A., Threadgill, D.~W., Katze, M.~G., McMillan, L.,
+  Valdar, W., Heise, M.~T., {Pardo-Manuel de Villena}, F., and Baric, R.~S.
+  (2015).
+\newblock {Genome Wide Identification of SARS-CoV Susceptibility Loci Using the
+  Collaborative Cross.}
+\newblock {\em PLoS genetics}, 11(10):e1005504.
+
+\bibitem[Greenberg et~al., 2010]{Greenberg2010}
+Greenberg, A.~J., Hackett, S.~R., Harshman, L.~G., and Clark, A.~G. (2010).
+\newblock {A Hierarchical Bayesian Model for a Novel Sparse Partial Diallel
+  Crossing Design}.
+\newblock {\em Genetics}, 185(1):361--373.
+
+\bibitem[Griffing, 1956]{Griffing1956}
+Griffing, B. (1956).
+\newblock {Concept of General and Specific Combining Ability in Relation to
+  Diallel Crossing Systems}.
+\newblock {\em Australian Journal of Biological Sciences}, 9(4):463.
+
+\bibitem[Gu et~al., 2004]{Gu2004a}
+Gu, W., Geddes, B.~J., Zhang, C., Foley, K.~P., and Stricker-Krongrad, A.
+  (2004).
+\newblock {The prolactin-releasing peptide receptor (GPR10) regulates body
+  weight homeostasis in mice.}
+\newblock {\em Journal of molecular neuroscience : MN}, 22(1-2):93--103.
+
+\bibitem[Halekoh and H{\o}jsgaard, 2014]{Halekoh2014}
+Halekoh, U. and H{\o}jsgaard, S. (2014).
+\newblock {A Kenward-Roger Approximation and Parametric Bootstrap Methods for
+  Tests in Linear Mixed Models - The R Package pbkrtest}.
+\newblock {\em Journal of Statistical Software}, 59(9):1--32.
+
+\bibitem[Haley and Knott, 1992]{Haley1992}
+Haley, C.~S. and Knott, S.~A. (1992).
+\newblock {A simple regression method for mapping quantitative trait loci in
+  line crosses using flanking markers}.
+\newblock {\em Heredity}, 69:315--24.
+
+\bibitem[Hansen and Spuhler, 1984]{Hansen1984}
+Hansen, C. and Spuhler, K. (1984).
+\newblock {Development of the National Institutes of Health genetically
+  heterogeneous rat stock.}
+\newblock {\em Alcoholism, clinical and experimental research}, 8(5):477--9.
+
+\bibitem[Harper et~al., 2014]{Harper2014a}
+Harper, K.~M., Tunc-Ozcan, E., Graf, E.~N., Herzing, L. B.~K., and Redei, E.~E.
+  (2014).
+\newblock {Intergenerational and parent of origin effects of maternal calorie
+  restriction on Igf2 expression in the adult rat hippocampus.}
+\newblock {\em Psychoneuroendocrinology}, 45:187--91.
+
+\bibitem[Hartmann et~al., 2008]{Hartmann2008}
+Hartmann, J., Garland, T., Hannon, R.~M., Kelly, S.~a., Mu{\~{n}}oz, G., and
+  Pomp, D. (2008).
+\newblock {Fine mapping of "mini-muscle," a recessive mutation causing reduced
+  hindlimb muscle mass in mice.}
+\newblock {\em The Journal of heredity}, 99(6):679--87.
+
+\bibitem[Hirai et~al., 2003]{Hirai2003}
+Hirai, H., Launey, T., Mikawa, S., Torashima, T., Yanagihara, D., Kasaura, T.,
+  Miyamoto, A., and Yuzaki, M. (2003).
+\newblock {New role of delta2-glutamate receptors in AMPA receptor trafficking
+  and cerebellar function.}
+\newblock {\em Nature neuroscience}, 6(8):869--76.
+
+\bibitem[Hoffman, 2013]{Hoffman2013}
+Hoffman, G.~E. (2013).
+\newblock {Correcting for population structure and kinship using the linear
+  mixed model: theory and extensions.}
+\newblock {\em PloS one}, 8(10):e75707.
+
+\bibitem[Holand et~al., 2013]{Holand2013a}
+Holand, A.~M., Steinsland, I., Martino, S., and Jensen, H. (2013).
+\newblock {Animal models and integrated nested Laplace approximations.}
+\newblock {\em G3 (Bethesda, Md.)}, 3(8):1241--51.
+
+\bibitem[Huang et~al., 2011]{Huang2011}
+Huang, X., Paulo, M.-J., Boer, M., Effgen, S., Keizer, P., Koornneef, M., and
+  van Eeuwijk, F.~a. (2011).
+\newblock {Analysis of natural allelic variation in
+  {\textless}i{\textgreater}Arabidopsis{\textless}/i{\textgreater} using a
+  multiparent recombinant inbred line population}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 108:4488--4493.
+
+\bibitem[Ivy, 2007]{Ivy2007}
+Ivy, T.~M. (2007).
+\newblock {Good genes, genetic compatibility and the evolution of polyandry:
+  use of the diallel cross to address competing hypotheses.}
+\newblock {\em Journal of evolutionary biology}, 20(2):479--87.
+
+\bibitem[Jansen et~al., 2017]{Jansen2017}
+Jansen, R., Hottenga, J.-J., Nivard, M.~G., Abdellaoui, A., Laport, B.,
+  de~Geus, E.~J., Wright, F.~A., Penninx, B. W. J.~H., and Boomsma, D.~I.
+  (2017).
+\newblock {Conditional eQTL analysis reveals allelic heterogeneity of gene
+  expression.}
+\newblock {\em Human molecular genetics}, 26(8):1444--1451.
+
+\bibitem[Kaeppler, 1997]{Kaeppler1997}
+Kaeppler, S.~M. (1997).
+\newblock {Quantitative trait locus mapping using sets of near-isogenic lines:
+  Relative power comparisons and technical considerations}.
+\newblock {\em Theoretical and Applied Genetics}, 95(3):384--392.
+
+\bibitem[Katzmarzyk et~al., 2000]{Katzmarzyk2000}
+Katzmarzyk, P.~T., Malina, R.~M., P{\'{e}}russe, L., Rice, T., Province, M.~A.,
+  Rao, D., and Bouchard, C. (2000).
+\newblock {Familial resemblance in fatness and fat distribution.}
+\newblock {\em American journal of human biology : the official journal of the
+  Human Biology Council}, 12(3):395--404.
+
+\bibitem[Keane et~al., 2011]{Keane2011}
+Keane, T.~M., Goodstadt, L., Danecek, P., White, M.~A., Wong, K., Yalcin, B.,
+  Heger, A., Agam, A., Slater, G., Goodson, M., Furlotte, N.~A., Eskin, E.,
+  Nell{\aa}ker, C., Whitley, H., Cleak, J., Janowitz, D., Hernandez-Pliego, P.,
+  Edwards, A., Belgard, T.~G., Oliver, P.~L., McIntyre, R.~E., Bhomra, A.,
+  Nicod, J., Gan, X., Yuan, W., van~der Weyden, L., Steward, C.~A., Bala, S.,
+  Stalker, J., Mott, R., Durbin, R., Jackson, I.~J., Czechanski, A.,
+  Guerra-Assun{\c{c}}{\~{a}}o, J.~A., Donahue, L.~R., Reinholdt, L.~G.,
+  Payseur, B.~A., Ponting, C.~P., Birney, E., Flint, J., and Adams, D.~J.
+  (2011).
+\newblock {Mouse genomic variation and its effect on phenotypes and gene
+  regulation.}
+\newblock {\em Nature}, 477(7364):289--94.
+
+\bibitem[Keele et~al., 2018]{Keele2017}
+Keele, G.~R., Prokop, J.~W., He, H., Holl, K., Littrell, J., Deal, A., Francic,
+  S., Cui, L., Gatti, D.~M., Broman, K.~W., Tschannen, M., Tsaih, S.-W.,
+  Zagloul, M., Kim, Y., Baur, B., Fox, J., Robinson, M., Levy, S., Flister,
+  M.~J., Mott, R., Valdar, W., and {Solberg Woods}, L.~C. (2018).
+\newblock {Genetic Fine-Mapping and Identification of Candidate Genes and
+  Variants for Adiposity Traits in Outbred Rats}.
+\newblock {\em Obesity}, 26(1):213--222.
+
+\bibitem[Kelada, 2016]{Kelada2016}
+Kelada, S. N.~P. (2016).
+\newblock {Plethysmography Phenotype QTL in Mice Before and After Allergen
+  Sensitization and Challenge}.
+\newblock {\em G3 (Bethesda, Md.)}, 6(9):2857--2865.
+
+\bibitem[Kelly et~al., 2013]{Kelly2013}
+Kelly, S.~a., Bell, T.~a., Selitsky, S.~R., Buus, R.~J., Hua, K., Weinstock,
+  G.~M., Garland, T., {Pardo-Manuel de Villena}, F., and Pomp, D. (2013).
+\newblock {A novel intronic single nucleotide polymorphism in the myosin heavy
+  polypeptide 4 gene is responsible for the mini-muscle phenotype characterized
+  by major reduction in hind-limb muscle mass in mice.}
+\newblock {\em Genetics}, 195(4):1385--95.
+
+\bibitem[Khisti et~al., 2006]{Khisti2006}
+Khisti, R.~T., Wolstenholme, J., Shelton, K.~L., and Miles, M.~F. (2006).
+\newblock {Characterization of the ethanol-deprivation effect in substrains of
+  C57BL/6 mice.}
+\newblock {\em Alcohol (Fayetteville, N.Y.)}, 40(2):119--26.
+
+\bibitem[King and Long, 2017]{King2017}
+King, E.~G. and Long, A.~D. (2017).
+\newblock {The Beavis Effect in Next-Generation Mapping Panels in Drosophila
+  melanogaster}.
+\newblock {\em G3}, 7(6):1643 LP -- 1652.
+
+\bibitem[King et~al., 2012a]{King2012a}
+King, E.~G., Macdonald, S.~J., and Long, A.~D. (2012a).
+\newblock {Properties and power of the Drosophila synthetic population resource
+  for the routine dissection of complex traits}.
+\newblock {\em Genetics}, 191(3):935--949.
+
+\bibitem[King et~al., 2012b]{King2012}
+King, E.~G., Merkes, C.~M., McNeil, C.~L., Hoofer, S.~R., Sen, S., Broman,
+  K.~W., Long, A.~D., and Macdonald, S.~J. (2012b).
+\newblock {Genetic dissection of a model complex trait using the Drosophila
+  Synthetic Population Resource}.
+\newblock {\em Genome Research}, 22(8):1558--1566.
+
+\bibitem[Kirkpatrick and Bryant, 2014]{Kirkpatrick2014}
+Kirkpatrick, S.~L. and Bryant, C.~D. (2014).
+\newblock {Behavioral architecture of opioid reward and aversion in C57BL/6
+  substrains.}
+\newblock {\em Frontiers in behavioral neuroscience}, 8:450.
+
+\bibitem[Klein, 2007]{Klein2007}
+Klein, R.~J. (2007).
+\newblock {Power analysis for genome-wide association studies}.
+\newblock {\em BMC Genetics}, 8(1):58.
+
+\bibitem[Kover et~al., 2009]{Kover2009}
+Kover, P.~X., Valdar, W., Trakalo, J., Scarcelli, N., Ehrenreich, I.~M.,
+  Purugganan, M.~D., Durrant, C., and Mott, R. (2009).
+\newblock {A multiparent advanced generation inter-cross to fine-map
+  quantitative traits in Arabidopsis thaliana}.
+\newblock {\em PLoS Genetics}, 5(7).
+
+\bibitem[Krieger et~al., 2009]{Krieger2009}
+Krieger, E., Joo, K., Lee, J., Lee, J., Raman, S., Thompson, J., Tyka, M.,
+  Baker, D., and Karplus, K. (2009).
+\newblock {Improving physical realism, stereochemistry, and side-chain accuracy
+  in homology modeling: Four approaches that performed well in CASP8.}
+\newblock {\em Proteins}, 77 Suppl 9:114--22.
+
+\bibitem[Kumar et~al., 2013]{Kumar2013}
+Kumar, V., Kim, K., Joseph, C., Kourrich, S., Yoo, S.-H., Huang, H.~C.,
+  Vitaterna, M.~H., de~Villena, F. P.-M., Churchill, G., Bonci, A., and
+  Takahashi, J.~S. (2013).
+\newblock {C57BL/6N mutation in cytoplasmic FMRP interacting protein 2
+  regulates cocaine response.}
+\newblock {\em Science (New York, N.Y.)}, 342(6165):1508--12.
+
+\bibitem[Kutalik et~al., 2011]{Kutalik2011}
+Kutalik, Z., Johnson, T., Bochud, M., Mooser, V., Vollenweider, P., Waeber, G.,
+  Waterworth, D., Beckmann, J.~S., and Bergmann, S. (2011).
+\newblock {Methods for testing association between uncertain genotypes and
+  quantitative traits}.
+\newblock {\em Biostatistics}, 12(1):1--17.
+
+\bibitem[Lander and Botstein, 1989]{Lander1989}
+Lander, E.~S. and Botstein, D. (1989).
+\newblock {Mapping mendelian factors underlying quantitative traits using RFLP
+  linkage maps.}
+\newblock {\em Genetics}, 121(1):185--99.
+
+\bibitem[Lander and Green, 1987]{Lander1987}
+Lander, E.~S. and Green, P. (1987).
+\newblock {Construction of multilocus genetic linkage maps in humans.}
+\newblock {\em Proceedings of the National Academy of Sciences},
+  84(8):2363--2367.
+
+\bibitem[Langmead and Salzberg, 2012]{Langmead2012}
+Langmead, B. and Salzberg, S.~L. (2012).
+\newblock {Fast gapped-read alignment with Bowtie 2.}
+\newblock {\em Nature methods}, 9(4):357--9.
+
+\bibitem[Lawlor et~al., 2008]{Lawlor2008}
+Lawlor, D.~A., Harbord, R.~M., Sterne, J. A.~C., Timpson, N., and {Davey
+  Smith}, G. (2008).
+\newblock {Mendelian randomization: using genes as instruments for making
+  causal inferences in epidemiology.}
+\newblock {\em Statistics in medicine}, 27(8):1133--63.
+
+\bibitem[Lawrence et~al., 2000]{Lawrence2000}
+Lawrence, C.~B., Celsi, F., Brennand, J., and Luckman, S.~M. (2000).
+\newblock {Alternative role for prolactin-releasing peptide in the regulation
+  of food intake.}
+\newblock {\em Nature neuroscience}, 3(7):645--6.
+
+\bibitem[Lawson et~al., 2013]{Lawson2013}
+Lawson, H.~A., Cheverud, J.~M., and Wolf, J.~B. (2013).
+\newblock {Genomic imprinting and parent-of-origin effects on complex traits.}
+\newblock {\em Nature reviews. Genetics}, 14(9):609--17.
+
+\bibitem[Lee et~al., 2016]{Lee2016}
+Lee, J.~J., Vattikuti, S., and Chow, C.~C. (2016).
+\newblock {Uncovering the Genetic Architectures of Quantitative Traits}.
+\newblock {\em Computational and Structural Biotechnology Journal}, 14:28--34.
+
+\bibitem[Lenarcic et~al., 2012]{Lenarcic2012}
+Lenarcic, A.~B., Svenson, K.~L., Churchill, G.~A., and Valdar, W. (2012).
+\newblock {A general Bayesian approach to analyzing diallel crosses of inbred
+  strains.}
+\newblock {\em Genetics}, 190(2):413--35.
+
+\bibitem[Li and Dewey, 2011]{Li2011a}
+Li, B. and Dewey, C.~N. (2011).
+\newblock {RSEM: accurate transcript quantification from RNA-Seq data with or
+  without a reference genome.}
+\newblock {\em BMC bioinformatics}, 12(1):323.
+
+\bibitem[Li et~al., 1991]{Li1991}
+Li, K.~H., Raghunathan, T.~E., and Rubin, D.~B. (1991).
+\newblock {Large-Sample Significance Levels from Multiply Imputed Data Using
+  Moment-Based Statistics and an F Reference Distribution}.
+\newblock {\em Journal of the American Statistical Association},
+  86(416):1065--1073.
+
+\bibitem[Li et~al., 2009]{Li2009}
+Li, Y., Willer, C., Sanna, S., and Abecasis, G. (2009).
+\newblock {Genotype Imputation}.
+\newblock {\em Annual Review of Genomics and Human Genetics}, 10(1):387--406.
+
+\bibitem[Lister and Dean, 1993]{Lister1993}
+Lister, C. and Dean, C. (1993).
+\newblock {Recombinant inbred lines for mapping RFLP and phenotypic markers in
+  Arabidopsis thaliana}.
+\newblock {\em The Plant Journal}, 4(4):745--750.
+
+\bibitem[Liu et~al., 2010]{Liu2010}
+Liu, E.~Y., Zhang, Q., McMillan, L., de~Villena, F. P.-M., and Wang, W. (2010).
+\newblock {Efficient genome ancestry inference in complex pedigrees with
+  inbreeding}.
+\newblock {\em Bioinformatics}, 26(12):i199--i207.
+
+\bibitem[Liu and Zeng, 2000]{Liu2000a}
+Liu, Y. and Zeng, Z.-B.~B. (2000).
+\newblock {A general mixture model approach for mapping quantitative trait loci
+  from diverse cross designs involving multiple inbred lines}.
+\newblock {\em Genetical Research}, 75(3):345--355.
+
+\bibitem[Locke et~al., 2015]{Locke2015}
+Locke, A.~E., Kahali, B., Berndt, S.~I., Justice, A.~E., Pers, T.~H., Day,
+  F.~R., Powell, C., Vedantam, S., Buchkovich, M.~L., Yang, J., Croteau-Chonka,
+  D.~C., Esko, T., Fall, T., Ferreira, T., Gustafsson, S., Kutalik, Z., Luan,
+  J., M{\"{a}}gi, R., Randall, J.~C., Winkler, T.~W., Wood, A.~R., Workalemahu,
+  T., Faul, J.~D., Smith, J.~A., Zhao, J.~H., Zhao, W., Chen, J., Fehrmann, R.,
+  Hedman, {\AA}.~K., Karjalainen, J., Schmidt, E.~M., Absher, D., Amin, N.,
+  Anderson, D., Beekman, M., Bolton, J.~L., Bragg-Gresham, J.~L., Buyske, S.,
+  Demirkan, A., Deng, G., Ehret, G.~B., Feenstra, B., Feitosa, M.~F., Fischer,
+  K., Goel, A., Gong, J., Jackson, A.~U., Kanoni, S., Kleber, M.~E.,
+  Kristiansson, K., Lim, U., Lotay, V., Mangino, M., Leach, I.~M.,
+  Medina-Gomez, C., Medland, S.~E., Nalls, M.~A., Palmer, C.~D., Pasko, D.,
+  Pechlivanis, S., Peters, M.~J., Prokopenko, I., Shungin, D.,
+  Stan{\v{c}}{\'{a}}kov{\'{a}}, A., Strawbridge, R.~J., Sung, Y.~J., Tanaka,
+  T., Teumer, A., Trompet, S., van~der Laan, S.~W., van Setten, J., {Van
+  Vliet-Ostaptchouk}, J.~V., Wang, Z., Yengo, L., Zhang, W., Isaacs, A.,
+  Albrecht, E., {\"{A}}rnl{\"{o}}v, J., Arscott, G.~M., Attwood, A.~P.,
+  Bandinelli, S., Barrett, A., Bas, I.~N., Bellis, C., Bennett, A.~J., Berne,
+  C., Blagieva, R., Bl{\"{u}}her, M., B{\"{o}}hringer, S., Bonnycastle, L.~L.,
+  B{\"{o}}ttcher, Y., Boyd, H.~A., Bruinenberg, M., Caspersen, I.~H., Chen,
+  Y.-D.~I., Clarke, R., Daw, E.~W., de~Craen, A. J.~M., Delgado, G., Dimitriou,
+  M., Doney, A. S.~F., Eklund, N., Estrada, K., Eury, E., Folkersen, L.,
+  Fraser, R.~M., Garcia, M.~E., Geller, F., Giedraitis, V., Gigante, B., Go,
+  A.~S., Golay, A., Goodall, A.~H., Gordon, S.~D., Gorski, M., Grabe, H.-J.,
+  Grallert, H., Grammer, T.~B., Gr{\"{a}}{\ss}ler, J., Gr{\"{o}}nberg, H.,
+  Groves, C.~J., Gusto, G., Haessler, J., Hall, P., Haller, T., Hallmans, G.,
+  Hartman, C.~A., Hassinen, M., Hayward, C., Heard-Costa, N.~L., Helmer, Q.,
+  Hengstenberg, C., Holmen, O., Hottenga, J.-J., James, A.~L., Jeff, J.~M.,
+  Johansson, {\AA}., Jolley, J., Juliusdottir, T., Kinnunen, L., Koenig, W.,
+  Koskenvuo, M., Kratzer, W., Laitinen, J., Lamina, C., Leander, K., Lee,
+  N.~R., Lichtner, P., Lind, L., Lindstr{\"{o}}m, J., Lo, K.~S., Lobbens, S.,
+  Lorbeer, R., Lu, Y., Mach, F., Magnusson, P. K.~E., Mahajan, A., McArdle,
+  W.~L., McLachlan, S., Menni, C., Merger, S., Mihailov, E., Milani, L.,
+  Moayyeri, A., Monda, K.~L., Morken, M.~A., Mulas, A., M{\"{u}}ller, G.,
+  M{\"{u}}ller-Nurasyid, M., Musk, A.~W., Nagaraja, R., N{\"{o}}then, M.~M.,
+  Nolte, I.~M., Pilz, S., Rayner, N.~W., Renstrom, F., Rettig, R., Ried, J.~S.,
+  Ripke, S., Robertson, N.~R., Rose, L.~M., Sanna, S., Scharnagl, H.,
+  Scholtens, S., Schumacher, F.~R., Scott, W.~R., Seufferlein, T., Shi, J.,
+  Smith, A.~V., Smolonska, J., Stanton, A.~V., Steinthorsdottir, V., Stirrups,
+  K., Stringham, H.~M., Sundstr{\"{o}}m, J., Swertz, M.~A., Swift, A.~J.,
+  Syv{\"{a}}nen, A.-C., Tan, S.-T., Tayo, B.~O., Thorand, B., Thorleifsson, G.,
+  Tyrer, J.~P., Uh, H.-W., Vandenput, L., Verhulst, F.~C., Vermeulen, S.~H.,
+  Verweij, N., Vonk, J.~M., Waite, L.~L., Warren, H.~R., Waterworth, D.,
+  Weedon, M.~N., Wilkens, L.~R., Willenborg, C., Wilsgaard, T., Wojczynski,
+  M.~K., Wong, A., Wright, A.~F., Zhang, Q., {LifeLines Cohort Study}, Brennan,
+  E.~P., Choi, M., Dastani, Z., Drong, A.~W., Eriksson, P., Franco-Cereceda,
+  A., G{\aa}din, J.~R., Gharavi, A.~G., Goddard, M.~E., Handsaker, R.~E.,
+  Huang, J., Karpe, F., Kathiresan, S., Keildson, S., Kiryluk, K., Kubo, M.,
+  Lee, J.-Y., Liang, L., Lifton, R.~P., Ma, B., McCarroll, S.~A., McKnight,
+  A.~J., Min, J.~L., Moffatt, M.~F., Montgomery, G.~W., Murabito, J.~M.,
+  Nicholson, G., Nyholt, D.~R., Okada, Y., Perry, J. R.~B., Dorajoo, R.,
+  Reinmaa, E., Salem, R.~M., Sandholm, N., Scott, R.~A., Stolk, L., Takahashi,
+  A., Tanaka, T., {van 't Hooft}, F.~M., Vinkhuyzen, A. A.~E., Westra, H.-J.,
+  Zheng, W., Zondervan, K.~T., {ADIPOGen Consortium}, {AGEN-BMI Working Group},
+  {CARDIOGRAMplusC4D Consortium}, {CKDGen Consortium}, GLGC, ICBP, {MAGIC
+  Investigators}, {MuTHER Consortium}, {MIGen Consortium}, {PAGE Consortium},
+  {ReproGen Consortium}, {GENIE Consortium}, {International Endogene
+  Consortium}, Heath, A.~C., Arveiler, D., Bakker, S. J.~L., Beilby, J.,
+  Bergman, R.~N., Blangero, J., Bovet, P., Campbell, H., Caulfield, M.~J.,
+  Cesana, G., Chakravarti, A., Chasman, D.~I., Chines, P.~S., Collins, F.~S.,
+  Crawford, D.~C., Cupples, L.~A., Cusi, D., Danesh, J., de~Faire, U., den
+  Ruijter, H.~M., Dominiczak, A.~F., Erbel, R., Erdmann, J., Eriksson, J.~G.,
+  Farrall, M., Felix, S.~B., Ferrannini, E., Ferri{\`{e}}res, J., Ford, I.,
+  Forouhi, N.~G., Forrester, T., Franco, O.~H., Gansevoort, R.~T., Gejman,
+  P.~V., Gieger, C., Gottesman, O., Gudnason, V., Gyllensten, U., Hall, A.~S.,
+  Harris, T.~B., Hattersley, A.~T., Hicks, A.~A., Hindorff, L.~A., Hingorani,
+  A.~D., Hofman, A., Homuth, G., Hovingh, G.~K., Humphries, S.~E., Hunt, S.~C.,
+  Hypp{\"{o}}nen, E., Illig, T., Jacobs, K.~B., Jarvelin, M.-R., J{\"{o}}ckel,
+  K.-H., Johansen, B., Jousilahti, P., Jukema, J.~W., Jula, A.~M., Kaprio, J.,
+  Kastelein, J. J.~P., Keinanen-Kiukaanniemi, S.~M., Kiemeney, L.~A., Knekt,
+  P., Kooner, J.~S., Kooperberg, C., Kovacs, P., Kraja, A.~T., Kumari, M.,
+  Kuusisto, J., Lakka, T.~A., Langenberg, C., Marchand, L.~L., Lehtim{\"{a}}ki,
+  T., Lyssenko, V., M{\"{a}}nnist{\"{o}}, S., Marette, A., Matise, T.~C.,
+  McKenzie, C.~A., McKnight, B., Moll, F.~L., Morris, A.~D., Morris, A.~P.,
+  Murray, J.~C., Nelis, M., Ohlsson, C., Oldehinkel, A.~J., Ong, K.~K., Madden,
+  P. A.~F., Pasterkamp, G., Peden, J.~F., Peters, A., Postma, D.~S.,
+  Pramstaller, P.~P., Price, J.~F., Qi, L., Raitakari, O.~T., Rankinen, T.,
+  Rao, D.~C., Rice, T.~K., Ridker, P.~M., Rioux, J.~D., Ritchie, M.~D., Rudan,
+  I., Salomaa, V., Samani, N.~J., Saramies, J., Sarzynski, M.~A., Schunkert,
+  H., Schwarz, P. E.~H., Sever, P., Shuldiner, A.~R., Sinisalo, J., Stolk,
+  R.~P., Strauch, K., T{\"{o}}njes, A., Tr{\'{e}}gou{\"{e}}t, D.-A., Tremblay,
+  A., Tremoli, E., Virtamo, J., Vohl, M.-C., V{\"{o}}lker, U., Waeber, G.,
+  Willemsen, G., Witteman, J.~C., Zillikens, M.~C., Adair, L.~S., Amouyel, P.,
+  Asselbergs, F.~W., Assimes, T.~L., Bochud, M., Boehm, B.~O., Boerwinkle, E.,
+  Bornstein, S.~R., Bottinger, E.~P., Bouchard, C., Cauchi, S., Chambers,
+  J.~C., Chanock, S.~J., Cooper, R.~S., de~Bakker, P. I.~W., Dedoussis, G.,
+  Ferrucci, L., Franks, P.~W., Froguel, P., Groop, L.~C., Haiman, C.~A.,
+  Hamsten, A., Hui, J., Hunter, D.~J., Hveem, K., Kaplan, R.~C., Kivimaki, M.,
+  Kuh, D., Laakso, M., Liu, Y., Martin, N.~G., M{\"{a}}rz, W., Melbye, M.,
+  Metspalu, A., Moebus, S., Munroe, P.~B., Nj{\o}lstad, I., Oostra, B.~A.,
+  Palmer, C. N.~A., Pedersen, N.~L., Perola, M., P{\'{e}}russe, L., Peters, U.,
+  Power, C., Quertermous, T., Rauramaa, R., Rivadeneira, F., Saaristo, T.~E.,
+  Saleheen, D., Sattar, N., Schadt, E.~E., Schlessinger, D., Slagboom, P.~E.,
+  Snieder, H., Spector, T.~D., Thorsteinsdottir, U., Stumvoll, M., Tuomilehto,
+  J., Uitterlinden, A.~G., Uusitupa, M., van~der Harst, P., Walker, M.,
+  Wallaschofski, H., Wareham, N.~J., Watkins, H., Weir, D.~R., Wichmann, H.-E.,
+  Wilson, J.~F., Zanen, P., Borecki, I.~B., Deloukas, P., Fox, C.~S., Heid,
+  I.~M., O'Connell, J.~R., Strachan, D.~P., Stefansson, K., van Duijn, C.~M.,
+  Abecasis, G.~R., Franke, L., Frayling, T.~M., McCarthy, M.~I., Visscher,
+  P.~M., Scherag, A., Willer, C.~J., Boehnke, M., Mohlke, K.~L., Lindgren,
+  C.~M., Beckmann, J.~S., Barroso, I., North, K.~E., Ingelsson, E., Hirschhorn,
+  J.~N., Loos, R. J.~F., and Speliotes, E.~K. (2015).
+\newblock {Genetic studies of body mass index yield new insights for obesity
+  biology.}
+\newblock {\em Nature}, 518(7538):197--206.
+
+\bibitem[Long et~al., 2014]{Long2014}
+Long, A.~D., Macdonald, S.~J., and King, E.~G. (2014).
+\newblock {Dissecting complex traits using the Drosophila Synthetic Population
+  Resource}.
+\newblock {\em Trends in Genetics}, 30(11):488--495.
+
+\bibitem[Lu et~al., 2016]{Lu2016}
+Lu, Y., Day, F.~R., Gustafsson, S., Buchkovich, M.~L., Na, J., Bataille, V.,
+  Cousminer, D.~L., Dastani, Z., Drong, A.~W., Esko, T., Evans, D.~M., Falchi,
+  M., Feitosa, M.~F., Ferreira, T., Hedman, {\AA}.~K., Haring, R., Hysi, P.~G.,
+  Iles, M.~M., Justice, A.~E., Kanoni, S., Lagou, V., Li, R., Li, X., Locke,
+  A., Lu, C., M{\"{a}}gi, R., Perry, J. R.~B., Pers, T.~H., Qi, Q., Sanna, M.,
+  Schmidt, E.~M., Scott, W.~R., Shungin, D., Teumer, A., Vinkhuyzen, A. A.~E.,
+  Walker, R.~W., Westra, H.-J., Zhang, M., Zhang, W., Zhao, J.~H., Zhu, Z.,
+  Afzal, U., Ahluwalia, T.~S., Bakker, S. J.~L., Bellis, C., Bonnefond, A.,
+  Borodulin, K., Buchman, A.~S., Cederholm, T., Choh, A.~C., Choi, H.~J.,
+  Curran, J.~E., de~Groot, L. C. P. G.~M., {De Jager}, P.~L., Dhonukshe-Rutten,
+  R. A.~M., Enneman, A.~W., Eury, E., Evans, D.~S., Forsen, T., Friedrich, N.,
+  Fumeron, F., Garcia, M.~E., G{\"{a}}rtner, S., Han, B.-G., Havulinna, A.~S.,
+  Hayward, C., Hernandez, D., Hillege, H., Ittermann, T., Kent, J.~W., Kolcic,
+  I., Laatikainen, T., Lahti, J., {Mateo Leach}, I., Lee, C.~G., Lee, J.-Y.,
+  Liu, T., Liu, Y., Lobbens, S., Loh, M., Lyytik{\"{a}}inen, L.-P.,
+  Medina-Gomez, C., Micha{\"{e}}lsson, K., Nalls, M.~A., Nielson, C.~M.,
+  Oozageer, L., Pascoe, L., Paternoster, L., Pola{\v{s}}ek, O., Ripatti, S.,
+  Sarzynski, M.~A., Shin, C.~S., Naran{\v{c}}i{\'{c}}, N.~S., Spira, D.,
+  Srikanth, P., Steinhagen-Thiessen, E., Sung, Y.~J., Swart, K. M.~A.,
+  Taittonen, L., Tanaka, T., Tikkanen, E., van~der Velde, N., van Schoor,
+  N.~M., Verweij, N., Wright, A.~F., Yu, L., Zmuda, J.~M., Eklund, N.,
+  Forrester, T., Grarup, N., Jackson, A.~U., Kristiansson, K., Kuulasmaa, T.,
+  Kuusisto, J., Lichtner, P., Luan, J., Mahajan, A., M{\"{a}}nnist{\"{o}}, S.,
+  Palmer, C.~D., Ried, J.~S., Scott, R.~A., Stanc{\'{a}}kov{\'{a}}, A., Wagner,
+  P.~J., Demirkan, A., D{\"{o}}ring, A., Gudnason, V., Kiel, D.~P.,
+  K{\"{u}}hnel, B., Mangino, M., Mcknight, B., Menni, C., O'Connell, J.~R.,
+  Oostra, B.~A., Shuldiner, A.~R., Song, K., Vandenput, L., van Duijn, C.~M.,
+  Vollenweider, P., White, C.~C., Boehnke, M., Boettcher, Y., Cooper, R.~S.,
+  Forouhi, N.~G., Gieger, C., Grallert, H., Hingorani, A., J{\o}rgensen, T.,
+  Jousilahti, P., Kivimaki, M., Kumari, M., Laakso, M., Langenberg, C.,
+  Linneberg, A., Luke, A., Mckenzie, C.~A., Palotie, A., Pedersen, O., Peters,
+  A., Strauch, K., Tayo, B.~O., Wareham, N.~J., Bennett, D.~A., Bertram, L.,
+  Blangero, J., Bl{\"{u}}her, M., Bouchard, C., Campbell, H., Cho, N.~H.,
+  Cummings, S.~R., Czerwinski, S.~A., Demuth, I., Eckardt, R., Eriksson, J.~G.,
+  Ferrucci, L., Franco, O.~H., Froguel, P., Gansevoort, R.~T., Hansen, T.,
+  Harris, T.~B., Hastie, N., Heli{\"{o}}vaara, M., Hofman, A., Jordan, J.~M.,
+  Jula, A., K{\"{a}}h{\"{o}}nen, M., Kajantie, E., Knekt, P.~B., Koskinen, S.,
+  Kovacs, P., Lehtim{\"{a}}ki, T., Lind, L., Liu, Y., Orwoll, E.~S., Osmond,
+  C., Perola, M., P{\'{e}}russe, L., Raitakari, O.~T., Rankinen, T., Rao,
+  D.~C., Rice, T.~K., Rivadeneira, F., Rudan, I., Salomaa, V., S{\o}rensen, T.
+  I.~A., Stumvoll, M., T{\"{o}}njes, A., Towne, B., Tranah, G.~J., Tremblay,
+  A., Uitterlinden, A.~G., van~der Harst, P., Vartiainen, E., Viikari, J.~S.,
+  Vitart, V., Vohl, M.-C., V{\"{o}}lzke, H., Walker, M., Wallaschofski, H.,
+  Wild, S., Wilson, J.~F., Yengo, L., Bishop, D.~T., Borecki, I.~B., Chambers,
+  J.~C., Cupples, L.~A., Dehghan, A., Deloukas, P., Fatemifar, G., Fox, C.,
+  Furey, T.~S., Franke, L., Han, J., Hunter, D.~J., Karjalainen, J., Karpe, F.,
+  Kaplan, R.~C., Kooner, J.~S., McCarthy, M.~I., Murabito, J.~M., Morris,
+  A.~P., Bishop, J. A.~N., North, K.~E., Ohlsson, C., Ong, K.~K., Prokopenko,
+  I., Richards, J.~B., Schadt, E.~E., Spector, T.~D., Wid{\'{e}}n, E., Willer,
+  C.~J., Yang, J., Ingelsson, E., Mohlke, K.~L., Hirschhorn, J.~N., Pospisilik,
+  J.~A., Zillikens, M.~C., Lindgren, C., Kilpel{\"{a}}inen, T.~O., and Loos, R.
+  J.~F. (2016).
+\newblock {New loci for body fat percentage reveal link between adiposity and
+  cardiometabolic disease risk.}
+\newblock {\em Nature communications}, 7:10495.
+
+\bibitem[Lynch and Walsh, 1998]{Lynch1998}
+Lynch, M. and Walsh, B. (1998).
+\newblock {\em {Genetics and Analysis of Quantitative Traits}}.
+\newblock Sinauer Associates, Sunderland, MA.
+
+\bibitem[Mangandi et~al., 2017]{Mangandi2017}
+Mangandi, J., Verma, S., Osorio, L., Peres, N.~A., van~de Weg, E., and
+  Whitaker, V.~M. (2017).
+\newblock {Pedigree-Based Analysis in a Multiparental Population of Octoploid
+  Strawberry Reveals QTL Alleles Conferring Resistance to Phytophthora
+  cactorum.}
+\newblock {\em G3}, 7(6):1707--1719.
+
+\bibitem[Mansur et~al., 1996]{Mansur1996}
+Mansur, L.~M., Orf, J.~H., Chase, K., Jarvik, T., Cregan, P.~B., and Lark,
+  K.~G. (1996).
+\newblock {Genetic Mapping of Agronomic Traits Using Recombinant Inbred Lines
+  of Soybean}.
+\newblock {\em Crop Science}, 36(5):1327.
+
+\bibitem[Marchini and Howie, 2010]{Marchini2010}
+Marchini, J. and Howie, B. (2010).
+\newblock {Genotype imputation for genome-wide association studies}.
+\newblock {\em Nature Reviews. Genetics}, 11(7):499--511.
+
+\bibitem[Mart{\'{i}}nez and Curnow, 1992]{Martinez1992}
+Mart{\'{i}}nez, O. and Curnow, R.~N. (1992).
+\newblock {Estimating the locations and the sizes of the effects of
+  quantitative trait loci using flanking markers}.
+\newblock {\em Theor. Appl. Genet.}, 85(4):480--488.
+
+\bibitem[Maurizio et~al., 2018]{Maurizio2017}
+Maurizio, P.~L., Ferris, M.~T., Keele, G.~R., Miller, D.~R., Shaw, G.~D.,
+  Whitmore, A.~C., West, A., Morrison, C.~R., Noll, K.~E., Plante, K.~S.,
+  Cockrell, A.~S., Threadgill, D.~W., {Pardo-Manuel de Villena}, F., Baric,
+  R.~S., Heise, M.~T., and Valdar, W. (2018).
+\newblock {Bayesian Diallel Analysis Reveals Mx1 -Dependent and Mx1
+  -Independent Effects on Response to Influenza A Virus in Mice}.
+\newblock {\em G3 (Bethesda, Md.)}, 8(2):427--445.
+
+\bibitem[McCarthy et~al., 2008]{Mccarthy2008}
+McCarthy, M.~I., Abecasis, G.~R., Cardon, L.~R., Goldstein, D.~B., Little, J.,
+  Ioannidis, J. P.~A., and Hirschhorn, J.~N. (2008).
+\newblock {Genome-wide association studies for complex traits: consensus,
+  uncertainty and challenges.}
+\newblock {\em Nature reviews. Genetics}, 9(5):356--69.
+
+\bibitem[McMullan et~al., 2016]{McMullan2016}
+McMullan, R.~C., Kelly, S.~A., Hua, K., Buckley, B.~K., Faber, J.~E.,
+  {Pardo‐Manuel de Villena}, F., and Pomp, D. (2016).
+\newblock {Long‐term exercise in mice has sex‐dependent benefits on body
+  composition and metabolism during aging}.
+\newblock {\em Physiological Reports}, 4(21):e13011.
+
+\bibitem[Meng and Rubin, 1992]{Meng1992}
+Meng, X.-L. and Rubin, D.~B. (1992).
+\newblock {Performing Likelihood Ratio Tests with Multiply-Imputed Data Sets}.
+\newblock {\em Biometrika}, 79(1):103.
+
+\bibitem[Meuwissen et~al., 2001]{Meuwissen2001}
+Meuwissen, T. H.~E., Hayes, B.~J., and Goddard, M.~E. (2001).
+\newblock {Prediction of total genetic value using genome-wide dense marker
+  maps}.
+\newblock {\em Genetics}, 157(4):1819--1829.
+
+\bibitem[Monforte and Tanksley, 2000]{Monforte2000}
+Monforte, A.~J. and Tanksley, S.~D. (2000).
+\newblock {Development of a set of near isogenic and backcross recombinant
+  inbred lines containing most of the Lycopersicon hirsutum genome in a L.
+  esculentum genetic background: A tool for gene mapping and gene discovery}.
+\newblock {\em Genome}, 43(5):803--813.
+
+\bibitem[Mosedale et~al., 2017]{Mosedale2017}
+Mosedale, M., Kim, Y., Brock, W.~J., Roth, S.~E., Wiltshire, T., {Scott Eaddy},
+  J., Keele, G.~R., Corty, R.~W., Xie, Y., Valdar, W., and Watkins, P.~B.
+  (2017).
+\newblock {Candidate Risk Factors and Mechanisms for Tolvaptan-Induced Liver
+  Injury Are Identified Using a Collaborative Cross Approach}.
+\newblock {\em Toxicological Sciences}, 156(2):kfw269.
+
+\bibitem[Mott et~al., 2000]{Mott2000}
+Mott, R., Talbot, C.~J., Turri, M.~G., Collins, a.~C., and Flint, J. (2000).
+\newblock {A method for fine mapping quantitative trait loci in outbred animal
+  stocks.}
+\newblock {\em PNAS}, 97(23):12649--54.
+
+\bibitem[Mulligan et~al., 2008]{Mulligan2008}
+Mulligan, M.~K., Ponomarev, I., Boehm, S.~L., Owen, J.~A., Levin, P.~S.,
+  Berman, A.~E., Blednov, Y.~A., Crabbe, J.~C., Williams, R.~W., Miles, M.~F.,
+  and Bergeson, S.~E. (2008).
+\newblock {Alcohol trait and transcriptional genomic analysis of C57BL/6
+  substrains.}
+\newblock {\em Genes, brain, and behavior}, 7(6):677--89.
+
+\bibitem[Najarro et~al., 2017]{Najarro2017}
+Najarro, M.~A., Hackett, J.~L., and Macdonald, S.~J. (2017).
+\newblock {Loci Contributing to Boric Acid Toxicity in Two Reference
+  Populations of Drosophila melanogaster}.
+\newblock {\em G3}, 7(June):1631--1641.
+
+\bibitem[Ng et~al., 2017]{Ng2017}
+Ng, M. C.~Y., Graff, M., Lu, Y., Justice, A.~E., Mudgal, P., Liu, C.-T., Young,
+  K., Yanek, L.~R., Feitosa, M.~F., Wojczynski, M.~K., Rand, K., Brody, J.~A.,
+  Cade, B.~E., Dimitrov, L., Duan, Q., Guo, X., Lange, L.~A., Nalls, M.~A.,
+  Okut, H., Tajuddin, S.~M., Tayo, B.~O., Vedantam, S., Bradfield, J.~P., Chen,
+  G., Chen, W.-M., Chesi, A., Irvin, M.~R., Padhukasahasram, B., Smith, J.~A.,
+  Zheng, W., Allison, M.~A., Ambrosone, C.~B., Bandera, E.~V., Bartz, T.~M.,
+  Berndt, S.~I., Bernstein, L., Blot, W.~J., Bottinger, E.~P., Carpten, J.,
+  Chanock, S.~J., Chen, Y.-D.~I., Conti, D.~V., Cooper, R.~S., Fornage, M.,
+  Freedman, B.~I., Garcia, M., Goodman, P.~J., Hsu, Y.-H.~H., Hu, J., Huff,
+  C.~D., Ingles, S.~A., John, E.~M., Kittles, R., Klein, E., Li, J., McKnight,
+  B., Nayak, U., Nemesure, B., Ogunniyi, A., Olshan, A., Press, M.~F., Rohde,
+  R., Rybicki, B.~A., Salako, B., Sanderson, M., Shao, Y., Siscovick, D.~S.,
+  Stanford, J.~L., Stevens, V.~L., Stram, A., Strom, S.~S., Vaidya, D., Witte,
+  J.~S., Yao, J., Zhu, X., Ziegler, R.~G., Zonderman, A.~B., Adeyemo, A., Ambs,
+  S., Cushman, M., Faul, J.~D., Hakonarson, H., Levin, A.~M., Nathanson, K.~L.,
+  Ware, E.~B., Weir, D.~R., Zhao, W., Zhi, D., {Bone Mineral Density in
+  Childhood Study (BMDCS) Group}, Arnett, D.~K., Grant, S. F.~A., Kardia, S.
+  L.~R., Oloapde, O.~I., Rao, D.~C., Rotimi, C.~N., Sale, M.~M., Williams,
+  L.~K., Zemel, B.~S., Becker, D.~M., Borecki, I.~B., Evans, M.~K., Harris,
+  T.~B., Hirschhorn, J.~N., Li, Y., Patel, S.~R., Psaty, B.~M., Rotter, J.~I.,
+  Wilson, J.~G., Bowden, D.~W., Cupples, L.~A., Haiman, C.~A., Loos, R. J.~F.,
+  and North, K.~E. (2017).
+\newblock {Discovery and fine-mapping of adiposity loci using high density
+  imputation of genome-wide association studies in individuals of African
+  ancestry: African Ancestry Anthropometry Genetics Consortium.}
+\newblock {\em PLoS genetics}, 13(4):e1006719.
+
+\bibitem[Nikpay et~al., 2012]{Nikpay2012}
+Nikpay, M., {\v{S}}eda, O., Tremblay, J., Petrovich, M., Gaudet, D., Kotchen,
+  T.~A., Cowley, A.~W., and Hamet, P. (2012).
+\newblock {Genetic mapping of habitual substance use, obesity-related traits,
+  responses to mental and physical stress, and heart rate and blood pressure
+  measurements reveals shared genes that are overrepresented in the neural
+  synapse.}
+\newblock {\em Hypertension research : official journal of the Japanese Society
+  of Hypertension}, 35(6):585--91.
+
+\bibitem[Noble et~al., 2017]{Noble2017}
+Noble, L.~M., Chelo, I., Guzella, T., Afonso, B., Riccardi, D.~D., Ammerman,
+  P., Dayarian, A., Carvalho, S., Crist, A., Pino-Querido, A., Shraiman, B.,
+  Rockman, M.~V., and Teot{\'{o}}nio, H. (2017).
+\newblock {Polygenicity And Epistasis Underlie Fitness-Proximal Traits In The
+  Caenorhabditis elegans Multiparental Experimental Evolution (CeMEE) Panel}.
+\newblock {\em bioRxiv}, 207(December):1663--1685.
+
+\bibitem[Nordman et~al., 2008]{Nordman2008}
+Nordman, S., Abulaiti, A., Hilding, A., L{\aa}ngberg, E.-C., Humphreys, K.,
+  Ostenson, C.-G., Efendic, S., and Gu, H.~F. (2008).
+\newblock {Genetic variation of the adenylyl cyclase 3 (AC3) locus and its
+  influence on type 2 diabetes and obesity susceptibility in Swedish men.}
+\newblock {\em International journal of obesity (2005)}, 32(3):407--12.
+
+\bibitem[Nystrand et~al., 2011]{Nystrand2011}
+Nystrand, M., Dowling, D.~K., and Simmons, L.~W. (2011).
+\newblock {Complex Genotype by Environment interactions and changing genetic
+  architectures across thermal environments in the Australian field cricket,
+  Teleogryllus oceanicus}.
+\newblock {\em BMC Evolutionary Biology}, 11(1):222.
+
+\bibitem[Oreper et~al., 2017]{Oreper2017}
+Oreper, D., Cai, Y., Tarantino, L.~M., de~Villena, F. P.-M., and Valdar, W.
+  (2017).
+\newblock {Inbred Strain Variant Database (ISVdb): A Repository for
+  Probabilistically Informed Sequence Differences Among the Collaborative Cross
+  Strains and Their Founders.}
+\newblock {\em G3 (Bethesda, Md.)}, 7(6):1623--1630.
+
+\bibitem[Ott and Longnecker, 2006]{Ott2006}
+Ott, R.~L. and Longnecker, M.~T. (2006).
+\newblock {\em Introduction to Statistical Methods and Data Analysis (with
+  CD-ROM)}.
+\newblock Duxbury Press.
+
+\bibitem[Pai et~al., 2015]{Pai2015}
+Pai, A.~A., Pritchard, J.~K., and Gilad, Y. (2015).
+\newblock {The genetic and mechanistic basis for variation in gene regulation.}
+\newblock {\em PLoS genetics}, 11(1):e1004857.
+
+\bibitem[Parker et~al., 2014]{Parker2014}
+Parker, C.~C., Carbonetto, P., Sokoloff, G., Park, Y.~J., Abney, M., and
+  Palmer, A.~A. (2014).
+\newblock {High-resolution genetic mapping of complex traits from a combined
+  analysis of F2 and advanced intercross mice.}
+\newblock {\em Genetics}, 198(1):103--16.
+
+\bibitem[Parker et~al., 2011]{Parker2011a}
+Parker, C.~C., Cheng, R., Sokoloff, G., Lim, J.~E., Skol, A.~D., Abney, M., and
+  Palmer, A.~A. (2011).
+\newblock {Fine-mapping alleles for body weight in LG/J × SM/J F₂ and F(34)
+  advanced intercross lines.}
+\newblock {\em Mammalian genome : official journal of the International
+  Mammalian Genome Society}, 22(9-10):563--71.
+
+\bibitem[Parker et~al., 2012]{Parker2012}
+Parker, C.~C., Sokoloff, G., Cheng, R., and Palmer, A.~A. (2012).
+\newblock {Genome-wide association for fear conditioning in an advanced
+  intercross mouse line.}
+\newblock {\em Behavior genetics}, 42(3):437--48.
+
+\bibitem[Parsons, 1964]{Parsons1964}
+Parsons, P.~A. (1964).
+\newblock {A diallel cross for mating speeds in Drosophila melanogaster}.
+\newblock {\em Genetica}, 35(1):141--151.
+
+\bibitem[Peirce et~al., 2004]{Peirce2004}
+Peirce, J.~L., Lu, L., Gu, J., Silver, L.~M., and Williams, R.~W. (2004).
+\newblock {A new set of BXD recombinant inbred lines from advanced intercross
+  populations in mice.}
+\newblock {\em BMC genetics}, 5(7):7.
+
+\bibitem[Phillippi et~al., 2014]{Phillippi2014}
+Phillippi, J., Xie, Y., Miller, D.~R., Bell, T.~A., Zhang, Z., Lenarcic, A.~B.,
+  Aylor, D.~L., Krovi, S.~H., Threadgill, D.~W., {Pardo-Manuel de Villena}, F.,
+  Wang, W., Valdar, W., and Frelinger, J.~A. (2014).
+\newblock {Using the emerging Collaborative Cross to probe the immune system}.
+\newblock {\em Genes {\&} Immunity}, 15(1):38--46.
+
+\bibitem[Pitman et~al., 2014]{Pitman2014}
+Pitman, J.~L., Wheeler, M.~C., Lloyd, D.~J., Walker, J.~R., Glynne, R.~J., and
+  Gekakis, N. (2014).
+\newblock {A gain-of-function mutation in adenylate cyclase 3 protects mice
+  from diet-induced obesity.}
+\newblock {\em PloS one}, 9(10):e110226.
+
+\bibitem[Prokop et~al., 2017]{Prokop2017}
+Prokop, J.~W., Lazar, J., Crapitto, G., Smith, D.~C., Worthey, E.~A., and
+  Jacob, H.~J. (2017).
+\newblock {Molecular modeling in the age of clinical genomics, the enterprise
+  of the next generation.}
+\newblock {\em Journal of molecular modeling}, 23(3):75.
+
+\bibitem[Purcell et~al., 2003]{Purcell2003}
+Purcell, S., Cherny, S.~S., and Sham, P.~C. (2003).
+\newblock {Genetic Power Calculator: design of linkage and association genetic
+  mapping studies of complex traits}.
+\newblock {\em Bioinformatics}, 19(1):149--150.
+
+\bibitem[{R Core Team}, 2018]{RSoftware2018}
+{R Core Team} (2018).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[Raghavan et~al., 2017]{Raghavan2017}
+Raghavan, C., Mauleon, R., Lacorte, V., Jubay, M., Zaw, H., and Bonifacio, J.
+  (2017).
+\newblock {Approaches in Characterizing Genetic Structure and Mapping in a Rice
+  Multiparental Population}.
+\newblock {\em G3}, 7(June):1721--1730.
+
+\bibitem[Raiffa and Schlaifer, 2000]{Raiffa2000}
+Raiffa, H. and Schlaifer, R. (2000).
+\newblock {\em {Applied Statistical Decision Theory}}.
+\newblock John Wiley {\&} Sons, INC., New York, NY, wiley clas edition.
+
+\bibitem[Ramstein et~al., 2015]{Ramstein2015}
+Ramstein, G.~P., Lipka, A.~E., Lu, F., Costich, D.~E., Cherney, J.~H., Buckler,
+  E., and Casler, M.~D. (2015).
+\newblock {Genome-Wide Association Study Based on Multiple Imputation with
+  Low-Depth Sequencing Data : Application to Biofuel Traits in Reed
+  Canarygrass}.
+\newblock {\em G3}, 5(July):891--909.
+
+\bibitem[Rantala and Roff, 2006]{Rantala2006}
+Rantala, M.~J. and Roff, D.~A. (2006).
+\newblock {Analysis of the importance of genotypic variation, metabolic rate,
+  morphology, sex and development time on immune function in the cricket,
+  Gryllus firmus}.
+\newblock {\em Journal of Evolutionary Biology}, 19(3):834--843.
+
+\bibitem[Rasmussen et~al., 2014]{Rasmussen2014}
+Rasmussen, A.~L., Okumura, A., Ferris, M.~T., Green, R., Feldmann, F., Kelly,
+  S.~M., Scott, D.~P., Safronetz, D., Haddock, E., LaCasse, R., Thomas, M.~J.,
+  Sova, P., Carter, V.~S., Weiss, J.~M., Miller, D.~R., Shaw, G.~D., Korth,
+  M.~J., Heise, M.~T., Baric, R.~S., de~Villena, F. P.-M., Feldmann, H., and
+  Katze, M.~G. (2014).
+\newblock {Host genetic diversity enables Ebola hemorrhagic fever pathogenesis
+  and resistance.}
+\newblock {\em Science (New York, N.Y.)}, 346(6212):987--91.
+
+\bibitem[Rebai and Goffinet, 1993]{Rebai1993}
+Rebai, A. and Goffinet, B. (1993).
+\newblock {Power of tests for QTL detection using replicated progenies derived
+  from a diallel cross}.
+\newblock {\em Theoretical and Applied Genetics}, 86(8):1014--1022.
+
+\bibitem[Roberts et~al., 2018]{Roberts2018}
+Roberts, A.~J., Casal, L., Huitron-Resendiz, S., Thompson, T., and Tarantino,
+  L.~M. (2018).
+\newblock {Intravenous cocaine self-administration in a panel of inbred mouse
+  strains differing in acute locomotor sensitivity to cocaine.}
+\newblock {\em Psychopharmacology}.
+
+\bibitem[{Robsa Shuro}, 2017]{RobsaShuro2017}
+{Robsa Shuro}, A. (2017).
+\newblock {Review Paper on Approaches in Developing Inbred Lines in
+  Cross-Pollinated Crops}.
+\newblock {\em Biochemistry and Molecular Biology}, 2(4):40.
+
+\bibitem[Rogala et~al., 2014]{Rogala2014}
+Rogala, A.~R., Morgan, A.~P., Christensen, A.~M., Gooch, T.~J., Bell, T.~A.,
+  Miller, D.~R., Godfrey, V.~L., and de~Villena, F. P.-M. (2014).
+\newblock {The Collaborative Cross as a resource for modeling human disease:
+  CC011/Unc, a new mouse model for spontaneous colitis.}
+\newblock {\em Mammalian genome}, 25(3-4):95--108.
+
+\bibitem[R{\"{o}}nneg{\aa}rd and Valdar, 2011]{Ronnegard2011}
+R{\"{o}}nneg{\aa}rd, L. and Valdar, W. (2011).
+\newblock {Detecting major genetic loci controlling phenotypic variability in
+  experimental crosses.}
+\newblock {\em Genetics}, 188(2):435--47.
+
+\bibitem[Roy et~al., 2010]{Roy2010}
+Roy, A., Kucukural, A., and Zhang, Y. (2010).
+\newblock {I-TASSER: a unified platform for automated protein structure and
+  function prediction.}
+\newblock {\em Nature protocols}, 5(4):725--38.
+
+\bibitem[Roytman et~al., 2018]{Roytman2018}
+Roytman, M., Kichaev, G., Gusev, A., and Pasaniuc, B. (2018).
+\newblock {Methods for fine-mapping with chromatin and expression data.}
+\newblock {\em PLoS genetics}, 14(2):e1007240.
+
+\bibitem[Rue et~al., 2009]{Rue2009a}
+Rue, H., Martino, S., and Chopin, N. (2009).
+\newblock {Approximate Bayesian inference for latent Gaussian models by using
+  integrated nested Laplace approximations}.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)}, 71(2):319--392.
+
+\bibitem[Sabourin et~al., 2015]{Sabourin2015}
+Sabourin, J., Nobel, A.~B., and Valdar, W. (2015).
+\newblock {Fine-mapping additive and dominant SNP effects using group-LASSO and
+  fractional resample model averaging.}
+\newblock {\em Genetic epidemiology}, 39(2):77--88.
+
+\bibitem[Sarkar and Chang, 1997]{Sarkar1997}
+Sarkar, S.~K. and Chang, C.-K. (1997).
+\newblock {The Simes Method for Multiple Hypothesis Testing With Positively
+  Dependent Test Statistics}.
+\newblock {\em Journal of the American Statistical Association}, 92(440):1601.
+
+\bibitem[{Schizophrenia Working Group of the Psychiatric Genomics Consortium},
+  2014]{Ripke2014}
+{Schizophrenia Working Group of the Psychiatric Genomics Consortium} (2014).
+\newblock {Biological insights from 108 schizophrenia-associated genetic loci.}
+\newblock {\em Nature}, 511(7510):421--7.
+
+\bibitem[Sen and Churchill, 2001]{Sen2001}
+Sen, S. and Churchill, G. (2001).
+\newblock {A statistical framework for quantitative trait mapping}.
+\newblock {\em Genetics}, 159:371--87.
+
+\bibitem[Sen et~al., 2007]{Sen2007}
+Sen, S., Satagopan, J.~M., Broman, K.~W., and Churchill, G.~A. (2007).
+\newblock {R/qtlDesign: inbred line cross experimental design.}
+\newblock {\em Mammalian genome}, 18(2):87--93.
+
+\bibitem[Sen et~al., 2005]{Sen2005}
+Sen, S., Satagopan, J.~M., and Churchill, G.~A. (2005).
+\newblock {Quantitative trait locus study design from an information
+  perspective.}
+\newblock {\em Genetics}, 170(1):447--64.
+
+\bibitem[Servin and Stephens, 2007]{Servin2007}
+Servin, B. and Stephens, M. (2007).
+\newblock {Imputation-based analysis of association studies: candidate regions
+  and quantitative traits.}
+\newblock {\em PLoS genetics}, 3(7):e114.
+
+\bibitem[Shorter et~al., 2017]{Shorter2017}
+Shorter, J.~R., Odet, F., Aylor, D.~L., Pan, W., Kao, C.-Y., Fu, C.-P., Morgan,
+  A.~P., Greenstein, S., Bell, T.~A., Stevans, A.~M., Feathers, R.~W., Patel,
+  S., Cates, S.~E., Shaw, G.~D., Miller, D.~R., Chesler, E.~J., McMillian, L.,
+  O'Brien, D.~A., and de~Villena, F. P.-M. (2017).
+\newblock {Male Infertility Is Responsible for Nearly Half of the Extinction
+  Observed in the Mouse Collaborative Cross}.
+\newblock {\em Genetics}, 206(2):557--572.
+
+\bibitem[Simon et~al., 2013]{Simon2013}
+Simon, M.~M., Greenaway, S., White, J.~K., Fuchs, H., Gailus-Durner, V., Wells,
+  S., Sorg, T., Wong, K., Bedu, E., Cartwright, E.~J., Dacquin, R., Djebali,
+  S., Estabel, J., Graw, J., Ingham, N.~J., Jackson, I.~J., Lengeling, A.,
+  Mandillo, S., Marvel, J., Meziane, H., Preitner, F., Puk, O., Roux, M.,
+  Adams, D.~J., Atkins, S., Ayadi, A., Becker, L., Blake, A., Brooker, D.,
+  Cater, H., Champy, M.-F., Combe, R., Danecek, P., di~Fenza, A., Gates, H.,
+  Gerdin, A.-K., Golini, E., Hancock, J.~M., Hans, W., H{\"{o}}lter, S.~M.,
+  Hough, T., Jurdic, P., Keane, T.~M., Morgan, H., M{\"{u}}ller, W., Neff, F.,
+  Nicholson, G., Pasche, B., Roberson, L.-A., Rozman, J., Sanderson, M.,
+  Santos, L., Selloum, M., Shannon, C., Southwell, A., Tocchini-Valentini,
+  G.~P., Vancollie, V.~E., Westerberg, H., Wurst, W., Zi, M., Yalcin, B.,
+  Ramirez-Solis, R., Steel, K.~P., Mallon, A.-M., de~Angelis, M.~H., Herault,
+  Y., and Brown, S. D.~M. (2013).
+\newblock {A comparative phenotypic and genomic analysis of C57BL/6J and
+  C57BL/6N mouse strains.}
+\newblock {\em Genome biology}, 14(7):R82.
+
+\bibitem[Smidt et~al., 2009]{Smidt2009}
+Smidt, K., Jessen, N., Petersen, A.~B., Larsen, A., Magnusson, N., Jeppesen,
+  J.~B., Stoltenberg, M., Culvenor, J.~G., Tsatsanis, A., Brock, B., Schmitz,
+  O., Wogensen, L., Bush, A.~I., and Rungby, J. (2009).
+\newblock {SLC30A3 responds to glucose- and zinc variations in beta-cells and
+  is critical for insulin production and in vivo glucose-metabolism during
+  beta-cell stress.}
+\newblock {\em PloS one}, 4(5):e5684.
+
+\bibitem[Smith and Ebrahim, 2003]{Smith2003}
+Smith, G.~D. and Ebrahim, S. (2003).
+\newblock {'Mendelian randomization': can genetic epidemiology contribute to
+  understanding environmental determinants of disease?}
+\newblock {\em International journal of epidemiology}, 32(1):1--22.
+
+\bibitem[{Solberg Woods}, 2014]{SolbergWoods2014}
+{Solberg Woods}, L.~C. (2014).
+\newblock {QTL mapping in outbred populations: successes and challenges.}
+\newblock {\em Physiological genomics}, 46(3):81--90.
+
+\bibitem[{Solberg Woods} et~al., 2010]{SolbergWoods2010}
+{Solberg Woods}, L.~C., Holl, K., Tschannen, M., and Valdar, W. (2010).
+\newblock {Fine-mapping a locus for glucose tolerance using heterogeneous stock
+  rats.}
+\newblock {\em Physiological genomics}, 41(1):102--8.
+
+\bibitem[{Solberg Woods} et~al., 2012]{SolbergWoods2012}
+{Solberg Woods}, L.~C., Holl, K.~L., Oreper, D., Xie, Y., Tsaih, S.-W., and
+  Valdar, W. (2012).
+\newblock {Fine-mapping diabetes-related traits, including insulin resistance,
+  in heterogeneous stock rats.}
+\newblock {\em Physiological genomics}, 44(21):1013--26.
+
+\bibitem[Speliotes et~al., 2010]{Speliotes2010}
+Speliotes, E.~K., Willer, C.~J., Berndt, S.~I., Monda, K.~L., Thorleifsson, G.,
+  Jackson, A.~U., {Lango Allen}, H., Lindgren, C.~M., Luan, J., M{\"{a}}gi, R.,
+  Randall, J.~C., Vedantam, S., Winkler, T.~W., Qi, L., Workalemahu, T., Heid,
+  I.~M., Steinthorsdottir, V., Stringham, H.~M., Weedon, M.~N., Wheeler, E.,
+  Wood, A.~R., Ferreira, T., Weyant, R.~J., Segr{\`{e}}, A.~V., Estrada, K.,
+  Liang, L., Nemesh, J., Park, J.-H., Gustafsson, S., Kilpel{\"{a}}inen, T.~O.,
+  Yang, J., Bouatia-Naji, N., Esko, T., Feitosa, M.~F., Kutalik, Z., Mangino,
+  M., Raychaudhuri, S., Scherag, A., Smith, A.~V., Welch, R., Zhao, J.~H.,
+  Aben, K.~K., Absher, D.~M., Amin, N., Dixon, A.~L., Fisher, E., Glazer,
+  N.~L., Goddard, M.~E., Heard-Costa, N.~L., Hoesel, V., Hottenga, J.-J.,
+  Johansson, A., Johnson, T., Ketkar, S., Lamina, C., Li, S., Moffatt, M.~F.,
+  Myers, R.~H., Narisu, N., Perry, J. R.~B., Peters, M.~J., Preuss, M.,
+  Ripatti, S., Rivadeneira, F., Sandholt, C., Scott, L.~J., Timpson, N.~J.,
+  Tyrer, J.~P., van Wingerden, S., Watanabe, R.~M., White, C.~C., Wiklund, F.,
+  Barlassina, C., Chasman, D.~I., Cooper, M.~N., Jansson, J.-O., Lawrence,
+  R.~W., Pellikka, N., Prokopenko, I., Shi, J., Thiering, E., Alavere, H.,
+  Alibrandi, M. T.~S., Almgren, P., Arnold, A.~M., Aspelund, T., Atwood, L.~D.,
+  Balkau, B., Balmforth, A.~J., Bennett, A.~J., Ben-Shlomo, Y., Bergman, R.~N.,
+  Bergmann, S., Biebermann, H., Blakemore, A. I.~F., Boes, T., Bonnycastle,
+  L.~L., Bornstein, S.~R., Brown, M.~J., Buchanan, T.~A., Busonero, F.,
+  Campbell, H., Cappuccio, F.~P., Cavalcanti-Proen{\c{c}}a, C., Chen, Y.-D.~I.,
+  Chen, C.-M., Chines, P.~S., Clarke, R., Coin, L., Connell, J., Day, I. N.~M.,
+  den Heijer, M., Duan, J., Ebrahim, S., Elliott, P., Elosua, R., Eiriksdottir,
+  G., Erdos, M.~R., Eriksson, J.~G., Facheris, M.~F., Felix, S.~B.,
+  Fischer-Posovszky, P., Folsom, A.~R., Friedrich, N., Freimer, N.~B., Fu, M.,
+  Gaget, S., Gejman, P.~V., Geus, E. J.~C., Gieger, C., Gjesing, A.~P., Goel,
+  A., Goyette, P., Grallert, H., Gr{\"{a}}ssler, J., Greenawalt, D.~M., Groves,
+  C.~J., Gudnason, V., Guiducci, C., Hartikainen, A.-L., Hassanali, N., Hall,
+  A.~S., Havulinna, A.~S., Hayward, C., Heath, A.~C., Hengstenberg, C., Hicks,
+  A.~A., Hinney, A., Hofman, A., Homuth, G., Hui, J., Igl, W., Iribarren, C.,
+  Isomaa, B., Jacobs, K.~B., Jarick, I., Jewell, E., John, U., J{\o}rgensen,
+  T., Jousilahti, P., Jula, A., Kaakinen, M., Kajantie, E., Kaplan, L.~M.,
+  Kathiresan, S., Kettunen, J., Kinnunen, L., Knowles, J.~W., Kolcic, I.,
+  K{\"{o}}nig, I.~R., Koskinen, S., Kovacs, P., Kuusisto, J., Kraft, P.,
+  Kval{\o}y, K., Laitinen, J., Lantieri, O., Lanzani, C., Launer, L.~J.,
+  Lecoeur, C., Lehtim{\"{a}}ki, T., Lettre, G., Liu, J., Lokki, M.-L.,
+  Lorentzon, M., Luben, R.~N., Ludwig, B., MAGIC, Manunta, P., Marek, D.,
+  Marre, M., Martin, N.~G., McArdle, W.~L., McCarthy, A., McKnight, B.,
+  Meitinger, T., Melander, O., Meyre, D., Midthjell, K., Montgomery, G.~W.,
+  Morken, M.~A., Morris, A.~P., Mulic, R., Ngwa, J.~S., Nelis, M., Neville,
+  M.~J., Nyholt, D.~R., O'Donnell, C.~J., O'Rahilly, S., Ong, K.~K., Oostra,
+  B., Par{\'{e}}, G., Parker, A.~N., Perola, M., Pichler, I.,
+  Pietil{\"{a}}inen, K.~H., Platou, C. G.~P., Polasek, O., Pouta, A., Rafelt,
+  S., Raitakari, O., Rayner, N.~W., Ridderstr{\aa}le, M., Rief, W., Ruokonen,
+  A., Robertson, N.~R., Rzehak, P., Salomaa, V., Sanders, A.~R., Sandhu, M.~S.,
+  Sanna, S., Saramies, J., Savolainen, M.~J., Scherag, S., Schipf, S.,
+  Schreiber, S., Schunkert, H., Silander, K., Sinisalo, J., Siscovick, D.~S.,
+  Smit, J.~H., Soranzo, N., Sovio, U., Stephens, J., Surakka, I., Swift, A.~J.,
+  Tammesoo, M.-L., Tardif, J.-C., Teder-Laving, M., Teslovich, T.~M., Thompson,
+  J.~R., Thomson, B., T{\"{o}}njes, A., Tuomi, T., van Meurs, J. B.~J., van
+  Ommen, G.-J., Vatin, V., Viikari, J., Visvikis-Siest, S., Vitart, V., Vogel,
+  C. I.~G., Voight, B.~F., Waite, L.~L., Wallaschofski, H., Walters, G.~B.,
+  Widen, E., Wiegand, S., Wild, S.~H., Willemsen, G., Witte, D.~R., Witteman,
+  J.~C., Xu, J., Zhang, Q., Zgaga, L., Ziegler, A., Zitting, P., Beilby, J.~P.,
+  Farooqi, I.~S., Hebebrand, J., Huikuri, H.~V., James, A.~L.,
+  K{\"{a}}h{\"{o}}nen, M., Levinson, D.~F., Macciardi, F., Nieminen, M.~S.,
+  Ohlsson, C., Palmer, L.~J., Ridker, P.~M., Stumvoll, M., Beckmann, J.~S.,
+  Boeing, H., Boerwinkle, E., Boomsma, D.~I., Caulfield, M.~J., Chanock, S.~J.,
+  Collins, F.~S., Cupples, L.~A., Smith, G.~D., Erdmann, J., Froguel, P.,
+  Gr{\"{o}}nberg, H., Gyllensten, U., Hall, P., Hansen, T., Harris, T.~B.,
+  Hattersley, A.~T., Hayes, R.~B., Heinrich, J., Hu, F.~B., Hveem, K., Illig,
+  T., Jarvelin, M.-R., Kaprio, J., Karpe, F., Khaw, K.-T., Kiemeney, L.~A.,
+  Krude, H., Laakso, M., Lawlor, D.~A., Metspalu, A., Munroe, P.~B., Ouwehand,
+  W.~H., Pedersen, O., Penninx, B.~W., Peters, A., Pramstaller, P.~P.,
+  Quertermous, T., Reinehr, T., Rissanen, A., Rudan, I., Samani, N.~J.,
+  Schwarz, P. E.~H., Shuldiner, A.~R., Spector, T.~D., Tuomilehto, J., Uda, M.,
+  Uitterlinden, A., Valle, T.~T., Wabitsch, M., Waeber, G., Wareham, N.~J.,
+  Watkins, H., {Procardis Consortium}, Wilson, J.~F., Wright, A.~F., Zillikens,
+  M.~C., Chatterjee, N., McCarroll, S.~A., Purcell, S., Schadt, E.~E.,
+  Visscher, P.~M., Assimes, T.~L., Borecki, I.~B., Deloukas, P., Fox, C.~S.,
+  Groop, L.~C., Haritunians, T., Hunter, D.~J., Kaplan, R.~C., Mohlke, K.~L.,
+  O'Connell, J.~R., Peltonen, L., Schlessinger, D., Strachan, D.~P., van Duijn,
+  C.~M., Wichmann, H.-E., Frayling, T.~M., Thorsteinsdottir, U., Abecasis,
+  G.~R., Barroso, I., Boehnke, M., Stefansson, K., North, K.~E., McCarthy,
+  M.~I., Hirschhorn, J.~N., Ingelsson, E., and Loos, R. J.~F. (2010).
+\newblock {Association analyses of 249,796 individuals reveal 18 new loci
+  associated with body mass index.}
+\newblock {\em Nature genetics}, 42(11):937--48.
+
+\bibitem[Srivastava et~al., 2017]{Srivastava2017}
+Srivastava, A., Morgan, A.~P., Najarian, M.~L., Sarsani, V.~K., Sigmon, J.~S.,
+  Shorter, J.~R., Kashfeen, A., McMullan, R.~C., Williams, L.~H.,
+  Giusti-Rodr{\'{i}}guez, P., Ferris, M.~T., Sullivan, P., Hock, P., Miller,
+  D.~R., Bell, T.~A., McMillan, L., Churchill, G.~A., and {De Villena}, F.
+  P.~M. (2017).
+\newblock {Genomes of the mouse collaborative cross}.
+\newblock {\em Genetics}, 206(2):537--556.
+
+\bibitem[Stanley et~al., 2017]{Stanley2017}
+Stanley, P.~D., Ng'oma, E., O'Day, S., and King, E.~G. (2017).
+\newblock {Genetic dissection of nutrition-induced plasticity in
+  insulin/insulin-like growth factor signaling and median life span in a
+  Drosophila multiparent population}.
+\newblock {\em Genetics}, 206(2):587--602.
+
+\bibitem[{STAR Consortium} et~al., 2008]{STARConsortium2008}
+{STAR Consortium}, Saar, K., Beck, A., Bihoreau, M.-T., Birney, E.,
+  Brocklebank, D., Chen, Y., Cuppen, E., Demonchy, S., Dopazo, J., Flicek, P.,
+  Foglio, M., Fujiyama, A., Gut, I.~G., Gauguier, D., Guigo, R., Guryev, V.,
+  Heinig, M., Hummel, O., Jahn, N., Klages, S., Kren, V., Kube, M., Kuhl, H.,
+  Kuramoto, T., Kuroki, Y., Lechner, D., Lee, Y.-A., Lopez-Bigas, N., Lathrop,
+  G.~M., Mashimo, T., Medina, I., Mott, R., Patone, G., Perrier-Cornet, J.-A.,
+  Platzer, M., Pravenec, M., Reinhardt, R., Sakaki, Y., Schilhabel, M., Schulz,
+  H., Serikawa, T., Shikhagaie, M., Tatsumoto, S., Taudien, S., Toyoda, A.,
+  Voigt, B., Zelenika, D., Zimdahl, H., and Hubner, N. (2008).
+\newblock {SNP and haplotype mapping for genetic analysis in the rat.}
+\newblock {\em Nature genetics}, 40(5):560--6.
+
+\bibitem[Stergiakouli et~al., 2014]{Stergiakouli2014}
+Stergiakouli, E., Gaillard, R., Tavar{\'{e}}, J.~M., Balthasar, N., Loos,
+  R.~J., Taal, H.~R., Evans, D.~M., Rivadeneira, F., {St Pourcain}, B.,
+  Uitterlinden, A.~G., Kemp, J.~P., Hofman, A., Ring, S.~M., Cole, T.~J.,
+  Jaddoe, V. W.~V., {Davey Smith}, G., and Timpson, N.~J. (2014).
+\newblock {Genome-wide association study of height-adjusted BMI in childhood
+  identifies functional variant in ADCY3.}
+\newblock {\em Obesity (Silver Spring, Md.)}, 22(10):2252--9.
+
+\bibitem[Storey and Tibshirani, 2003]{Storey2003}
+Storey, J.~D. and Tibshirani, R. (2003).
+\newblock {Statistical significance for genomewide studies.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 100(16):9440--5.
+
+\bibitem[Stunkard et~al., 1986]{Stunkard1986}
+Stunkard, A.~J., Foch, T.~T., and Hrubec, Z. (1986).
+\newblock {A twin study of human obesity.}
+\newblock {\em JAMA}, 256(1):51--4.
+
+\bibitem[Svenson et~al., 2012]{Svenson2012}
+Svenson, K.~L., Gatti, D.~M., Valdar, W., Welsh, C.~E., Cheng, R., Chesler,
+  E.~J., Palmer, A.~a., McMillan, L., and Churchill, G.~a. (2012).
+\newblock {High-resolution genetic mapping using the Mouse Diversity outbred
+  population.}
+\newblock {\em Genetics}, 190(2):437--47.
+
+\bibitem[Takuno et~al., 2012]{Takuno2012}
+Takuno, S., Terauchi, R., and Innan, H. (2012).
+\newblock {The power of QTL mapping with RILs.}
+\newblock {\em PloS one}, 7(10):e46545.
+
+\bibitem[Teslovich et~al., 2010]{Teslovich2010}
+Teslovich, T.~M., Musunuru, K., Smith, A.~V., Edmondson, A.~C., Stylianou,
+  I.~M., Koseki, M., Pirruccello, J.~P., Ripatti, S., Chasman, D.~I., Willer,
+  C.~J., Johansen, C.~T., Fouchier, S.~W., Isaacs, A., Peloso, G.~M., Barbalic,
+  M., Ricketts, S.~L., Bis, J.~C., Aulchenko, Y.~S., Thorleifsson, G., Feitosa,
+  M.~F., Chambers, J., Orho-Melander, M., Melander, O., Johnson, T., Li, X.,
+  Guo, X., Li, M., {Shin Cho}, Y., {Jin Go}, M., {Jin Kim}, Y., Lee, J.-Y.,
+  Park, T., Kim, K., Sim, X., {Twee-Hee Ong}, R., Croteau-Chonka, D.~C., Lange,
+  L.~A., Smith, J.~D., Song, K., {Hua Zhao}, J., Yuan, X., Luan, J., Lamina,
+  C., Ziegler, A., Zhang, W., Zee, R. Y.~L., Wright, A.~F., Witteman, J. C.~M.,
+  Wilson, J.~F., Willemsen, G., Wichmann, H.-E., Whitfield, J.~B., Waterworth,
+  D.~M., Wareham, N.~J., Waeber, G., Vollenweider, P., Voight, B.~F., Vitart,
+  V., Uitterlinden, A.~G., Uda, M., Tuomilehto, J., Thompson, J.~R., Tanaka,
+  T., Surakka, I., Stringham, H.~M., Spector, T.~D., Soranzo, N., Smit, J.~H.,
+  Sinisalo, J., Silander, K., Sijbrands, E. J.~G., Scuteri, A., Scott, J.,
+  Schlessinger, D., Sanna, S., Salomaa, V., Saharinen, J., Sabatti, C.,
+  Ruokonen, A., Rudan, I., Rose, L.~M., Roberts, R., Rieder, M., Psaty, B.~M.,
+  Pramstaller, P.~P., Pichler, I., Perola, M., Penninx, B. W. J.~H., Pedersen,
+  N.~L., Pattaro, C., Parker, A.~N., Pare, G., Oostra, B.~A., O'Donnell, C.~J.,
+  Nieminen, M.~S., Nickerson, D.~A., Montgomery, G.~W., Meitinger, T.,
+  McPherson, R., McCarthy, M.~I., McArdle, W., Masson, D., Martin, N.~G.,
+  Marroni, F., Mangino, M., Magnusson, P. K.~E., Lucas, G., Luben, R., Loos, R.
+  J.~F., Lokki, M.-L., Lettre, G., Langenberg, C., Launer, L.~J., Lakatta,
+  E.~G., Laaksonen, R., Kyvik, K.~O., Kronenberg, F., K{\"{o}}nig, I.~R., Khaw,
+  K.-T., Kaprio, J., Kaplan, L.~M., Johansson, A., Jarvelin, M.-R., Janssens,
+  A. C. J.~W., Ingelsson, E., Igl, W., {Kees Hovingh}, G., Hottenga, J.-J.,
+  Hofman, A., Hicks, A.~A., Hengstenberg, C., Heid, I.~M., Hayward, C.,
+  Havulinna, A.~S., Hastie, N.~D., Harris, T.~B., Haritunians, T., Hall, A.~S.,
+  Gyllensten, U., Guiducci, C., Groop, L.~C., Gonzalez, E., Gieger, C.,
+  Freimer, N.~B., Ferrucci, L., Erdmann, J., Elliott, P., Ejebe, K.~G.,
+  D{\"{o}}ring, A., Dominiczak, A.~F., Demissie, S., Deloukas, P., de~Geus, E.
+  J.~C., de~Faire, U., Crawford, G., Collins, F.~S., Chen, Y.-d.~I., Caulfield,
+  M.~J., Campbell, H., Burtt, N.~P., Bonnycastle, L.~L., Boomsma, D.~I.,
+  Boekholdt, S.~M., Bergman, R.~N., Barroso, I., Bandinelli, S., Ballantyne,
+  C.~M., Assimes, T.~L., Quertermous, T., Altshuler, D., Seielstad, M., Wong,
+  T.~Y., Tai, E.-S., Feranil, A.~B., Kuzawa, C.~W., Adair, L.~S., Taylor,
+  H.~A., Borecki, I.~B., Gabriel, S.~B., Wilson, J.~G., Holm, H.,
+  Thorsteinsdottir, U., Gudnason, V., Krauss, R.~M., Mohlke, K.~L., Ordovas,
+  J.~M., Munroe, P.~B., Kooner, J.~S., Tall, A.~R., Hegele, R.~A., Kastelein,
+  J. J.~P., Schadt, E.~E., Rotter, J.~I., Boerwinkle, E., Strachan, D.~P.,
+  Mooser, V., Stefansson, K., Reilly, M.~P., Samani, N.~J., Schunkert, H.,
+  Cupples, L.~A., Sandhu, M.~S., Ridker, P.~M., Rader, D.~J., van Duijn, C.~M.,
+  Peltonen, L., Abecasis, G.~R., Boehnke, M., and Kathiresan, S. (2010).
+\newblock {Biological, clinical and population relevance of 95 loci for blood
+  lipids.}
+\newblock {\em Nature}, 466(7307):707--13.
+
+\bibitem[Threadgill et~al., 2002]{Threadgill2002}
+Threadgill, D.~W., Hunter, K.~W., and Williams, R.~W. (2002).
+\newblock {Genetic dissection of complex and quantitative traits: from fantasy
+  to reality via a community effort.}
+\newblock {\em Mammalian genome : official journal of the International
+  Mammalian Genome Society}, 13(4):175--8.
+
+\bibitem[Tisn{\'{e}} et~al., 2017]{Tisne2017}
+Tisn{\'{e}}, S., Pomi{\`{e}}s, V., Riou, V., Syahputra, I., and Cochard, B.
+  (2017).
+\newblock {Identification of Ganoderma Disease Resistance Loci Using Natural
+  Field Infection of an Oil Palm Multiparental Population}.
+\newblock {\em G3}, 7(June):1683--1692.
+
+\bibitem[Tong et~al., 2016]{Tong2016}
+Tong, T., Shen, Y., Lee, H.-W., Yu, R., and Park, T. (2016).
+\newblock {Adenylyl cyclase 3 haploinsufficiency confers susceptibility to
+  diet-induced obesity and insulin resistance in mice.}
+\newblock {\em Scientific reports}, 6:34179.
+
+\bibitem[Tsaih et~al., 2014]{Tsaih2014}
+Tsaih, S.-W., Holl, K., Jia, S., Kaldunski, M., Tschannen, M., He, H., Andrae,
+  J.~W., Li, S.-H., Stoddard, A., Wiederhold, A., Parrington, J., {Ruas da
+  Silva}, M., Galione, A., Meigs, J., {Meta-Analyses of Glucose and
+  Insulin-Related Traits Consortium (MAGIC) Investigators}, Hoffmann, R.~G.,
+  Simpson, P., Jacob, H., Hessner, M., and {Solberg Woods}, L.~C. (2014).
+\newblock {Identification of a novel gene for diabetic traits in rats, mice,
+  and humans.}
+\newblock {\em Genetics}, 198(1):17--29.
+
+\bibitem[Tsaih et~al., 2005]{Tsaih2005}
+Tsaih, S.-W., Lu, L., Airey, D.~C., Williams, R.~W., and Churchill, G.~A.
+  (2005).
+\newblock {Quantitative trait mapping in a diallel cross of recombinant inbred
+  lines}.
+\newblock {\em Mammalian Genome}, 16(5):344--355.
+
+\bibitem[Turner et~al., 2018]{Turner2017}
+Turner, S.~D., Maurizio, P.~L., Valdar, W., Yandell, B.~S., and Simon, P.~W.
+  (2018).
+\newblock {Dissecting the Genetic Architecture of Shoot Growth in Carrot (
+  Daucus carota L.) Using a Diallel Mating Design}.
+\newblock {\em G3 (Bethesda, Md.)}, 8(2):411--426.
+
+\bibitem[Valdar et~al., 2006a]{Valdar2006c}
+Valdar, W., Flint, J., and Mott, R. (2006a).
+\newblock {Simulating the collaborative cross: power of quantitative trait loci
+  detection and mapping resolution in large sets of recombinant inbred strains
+  of mice.}
+\newblock {\em Genetics}, 172(3):1783--97.
+
+\bibitem[Valdar et~al., 2009]{Valdar2009}
+Valdar, W., Holmes, C.~C., Mott, R., and Flint, J. (2009).
+\newblock {Mapping in structured populations by resample model averaging.}
+\newblock {\em Genetics}, 182(4):1263--77.
+
+\bibitem[Valdar et~al., 2006b]{Valdar2006a}
+Valdar, W., Solberg, L.~C., Gauguier, D., Burnett, S., Klenerman, P., Cookson,
+  W.~O., Taylor, M.~S., Rawlins, J. N.~P., Mott, R., and Flint, J. (2006b).
+\newblock {Genome-wide genetic association of complex traits in heterogeneous
+  stock mice}.
+\newblock {\em Nature Genetics}, 38(8):879--887.
+
+\bibitem[Valdar et~al., 2006c]{Valdar2006b}
+Valdar, W., Solberg, L.~C., Gauguier, D., Cookson, W.~O., Rawlins, J. N.~P.,
+  Mott, R., and Flint, J. (2006c).
+\newblock {Genetic and environmental effects on complex traits in mice.}
+\newblock {\em Genetics}, 174(2):959--84.
+
+\bibitem[Venables and Ripley, 2002]{Venables2002}
+Venables, W.~N. and Ripley, B.~D. (2002).
+\newblock {\em Modern Applied Statistics with S}.
+\newblock Springer, New York, fourth edition.
+\newblock ISBN 0-387-95457-0.
+
+\bibitem[Verbyla et~al., 2014]{Verbyla2014}
+Verbyla, A.~P., George, A.~W., Cavanagh, C.~R., and Verbyla, K.~L. (2014).
+\newblock {Whole-genome QTL analysis for MAGIC}.
+\newblock {\em Theoretical and Applied Genetics}, 127(8):1753--1770.
+
+\bibitem[Verhoeven et~al., 2006]{Verhoeven2006}
+Verhoeven, K. J.~F., Jannink, J.-L., and McIntyre, L.~M. (2006).
+\newblock {Using mating designs to uncover QTL and the genetic architecture of
+  complex traits.}
+\newblock {\em Heredity}, 96(2):139--49.
+
+\bibitem[Wang et~al., 2011]{Wang2011a}
+Wang, Y.~C., McPherson, K., Marsh, T., Gortmaker, S.~L., and Brown, M. (2011).
+\newblock {Health and economic burden of the projected obesity trends in the
+  USA and the UK.}
+\newblock {\em Lancet (London, England)}, 378(9793):815--25.
+
+\bibitem[Wang et~al., 2009]{Wang2009}
+Wang, Z., Li, V., Chan, G. C.~K., Phan, T., Nudelman, A.~S., Xia, Z., and
+  Storm, D.~R. (2009).
+\newblock {Adult type 3 adenylyl cyclase-deficient mice are obese.}
+\newblock {\em PloS one}, 4(9):e6979.
+
+\bibitem[Wei and Xu, 2016]{Wei2016}
+Wei, J. and Xu, S. (2016).
+\newblock {A random-model approach to QTL mapping in multiparent advanced
+  generation intercross (MAGIC) populations}.
+\newblock {\em Genetics}, 202(2):471--486.
+
+\bibitem[Wen et~al., 2012]{Wen2012}
+Wen, W., Cho, Y.-S., Zheng, W., Dorajoo, R., Kato, N., Qi, L., Chen, C.-H.,
+  Delahanty, R.~J., Okada, Y., Tabara, Y., Gu, D., Zhu, D., Haiman, C.~A., Mo,
+  Z., Gao, Y.-T., Saw, S.-M., Go, M.-J., Takeuchi, F., Chang, L.-C., Kokubo,
+  Y., Liang, J., Hao, M., {Le Marchand}, L., Zhang, Y., Hu, Y., Wong, T.-Y.,
+  Long, J., Han, B.-G., Kubo, M., Yamamoto, K., Su, M.-H., Miki, T., Henderson,
+  B.~E., Song, H., Tan, A., He, J., Ng, D. P.-K., Cai, Q., Tsunoda, T., Tsai,
+  F.-J., Iwai, N., Chen, G.~K., Shi, J., Xu, J., Sim, X., Xiang, Y.-B., Maeda,
+  S., Ong, R. T.~H., Li, C., Nakamura, Y., Aung, T., Kamatani, N., Liu, J.-J.,
+  Lu, W., Yokota, M., Seielstad, M., Fann, C. S.~J., {Genetic Investigation of
+  ANthropometric Traits (GIANT) Consortium}, Wu, J.-Y., Lee, J.-Y., Hu, F.~B.,
+  Tanaka, T., Tai, E.~S., and Shu, X.-O. (2012).
+\newblock {Meta-analysis identifies common variants associated with body mass
+  index in east Asians.}
+\newblock {\em Nature genetics}, 44(3):307--11.
+
+\bibitem[Williams and Williams, 2017]{Williams2017}
+Williams, R.~W. and Williams, E.~G. (2017).
+\newblock Resources for systems genetics.
+\newblock In Schughart, K. and Williams, R.~W., editors, {\em Systems Genetics:
+  Methods and Protocols}, pages 3--29. Springer New York, New York, NY.
+
+\bibitem[Wood et~al., 2014]{Wood2014}
+Wood, A.~R., Esko, T., Yang, J., Vedantam, S., Pers, T.~H., Gustafsson, S.,
+  Chu, A.~Y., Estrada, K., Luan, J., Kutalik, Z., Amin, N., Buchkovich, M.~L.,
+  Croteau-Chonka, D.~C., Day, F.~R., Duan, Y., Fall, T., Fehrmann, R.,
+  Ferreira, T., Jackson, A.~U., Karjalainen, J., Lo, K.~S., Locke, A.~E.,
+  M{\"{a}}gi, R., Mihailov, E., Porcu, E., Randall, J.~C., Scherag, A.,
+  Vinkhuyzen, A. A.~E., Westra, H.-J., Winkler, T.~W., Workalemahu, T., Zhao,
+  J.~H., Absher, D., Albrecht, E., Anderson, D., Baron, J., Beekman, M.,
+  Demirkan, A., Ehret, G.~B., Feenstra, B., Feitosa, M.~F., Fischer, K.,
+  Fraser, R.~M., Goel, A., Gong, J., Justice, A.~E., Kanoni, S., Kleber, M.~E.,
+  Kristiansson, K., Lim, U., Lotay, V., Lui, J.~C., Mangino, M., {Mateo Leach},
+  I., Medina-Gomez, C., Nalls, M.~A., Nyholt, D.~R., Palmer, C.~D., Pasko, D.,
+  Pechlivanis, S., Prokopenko, I., Ried, J.~S., Ripke, S., Shungin, D.,
+  Stanc{\'{a}}kov{\'{a}}, A., Strawbridge, R.~J., Sung, Y.~J., Tanaka, T.,
+  Teumer, A., Trompet, S., van~der Laan, S.~W., van Setten, J., {Van
+  Vliet-Ostaptchouk}, J.~V., Wang, Z., Yengo, L., Zhang, W., Afzal, U.,
+  Arnl{\"{o}}v, J., Arscott, G.~M., Bandinelli, S., Barrett, A., Bellis, C.,
+  Bennett, A.~J., Berne, C., Bl{\"{u}}her, M., Bolton, J.~L., B{\"{o}}ttcher,
+  Y., Boyd, H.~A., Bruinenberg, M., Buckley, B.~M., Buyske, S., Caspersen,
+  I.~H., Chines, P.~S., Clarke, R., Claudi-Boehm, S., Cooper, M., Daw, E.~W.,
+  {De Jong}, P.~A., Deelen, J., Delgado, G., Denny, J.~C., Dhonukshe-Rutten,
+  R., Dimitriou, M., Doney, A. S.~F., D{\"{o}}rr, M., Eklund, N., Eury, E.,
+  Folkersen, L., Garcia, M.~E., Geller, F., Giedraitis, V., Go, A.~S.,
+  Grallert, H., Grammer, T.~B., Gr{\"{a}}{\ss}ler, J., Gr{\"{o}}nberg, H.,
+  de~Groot, L. C. P. G.~M., Groves, C.~J., Haessler, J., Hall, P., Haller, T.,
+  Hallmans, G., Hannemann, A., Hartman, C.~A., Hassinen, M., Hayward, C.,
+  Heard-Costa, N.~L., Helmer, Q., Hemani, G., Henders, A.~K., Hillege, H.~L.,
+  Hlatky, M.~A., Hoffmann, W., Hoffmann, P., Holmen, O., Houwing-Duistermaat,
+  J.~J., Illig, T., Isaacs, A., James, A.~L., Jeff, J., Johansen, B.,
+  Johansson, {\AA}., Jolley, J., Juliusdottir, T., Junttila, J., Kho, A.~N.,
+  Kinnunen, L., Klopp, N., Kocher, T., Kratzer, W., Lichtner, P., Lind, L.,
+  Lindstr{\"{o}}m, J., Lobbens, S., Lorentzon, M., Lu, Y., Lyssenko, V.,
+  Magnusson, P. K.~E., Mahajan, A., Maillard, M., McArdle, W.~L., McKenzie,
+  C.~A., McLachlan, S., McLaren, P.~J., Menni, C., Merger, S., Milani, L.,
+  Moayyeri, A., Monda, K.~L., Morken, M.~A., M{\"{u}}ller, G.,
+  M{\"{u}}ller-Nurasyid, M., Musk, A.~W., Narisu, N., Nauck, M., Nolte, I.~M.,
+  N{\"{o}}then, M.~M., Oozageer, L., Pilz, S., Rayner, N.~W., Renstrom, F.,
+  Robertson, N.~R., Rose, L.~M., Roussel, R., Sanna, S., Scharnagl, H.,
+  Scholtens, S., Schumacher, F.~R., Schunkert, H., Scott, R.~A., Sehmi, J.,
+  Seufferlein, T., Shi, J., Silventoinen, K., Smit, J.~H., Smith, A.~V.,
+  Smolonska, J., Stanton, A.~V., Stirrups, K., Stott, D.~J., Stringham, H.~M.,
+  Sundstr{\"{o}}m, J., Swertz, M.~A., Syv{\"{a}}nen, A.-C., Tayo, B.~O.,
+  Thorleifsson, G., Tyrer, J.~P., van Dijk, S., van Schoor, N.~M., van~der
+  Velde, N., van Heemst, D., van Oort, F. V.~A., Vermeulen, S.~H., Verweij, N.,
+  Vonk, J.~M., Waite, L.~L., Waldenberger, M., Wennauer, R., Wilkens, L.~R.,
+  Willenborg, C., Wilsgaard, T., Wojczynski, M.~K., Wong, A., Wright, A.~F.,
+  Zhang, Q., Arveiler, D., Bakker, S. J.~L., Beilby, J., Bergman, R.~N.,
+  Bergmann, S., Biffar, R., Blangero, J., Boomsma, D.~I., Bornstein, S.~R.,
+  Bovet, P., Brambilla, P., Brown, M.~J., Campbell, H., Caulfield, M.~J.,
+  Chakravarti, A., Collins, R., Collins, F.~S., Crawford, D.~C., Cupples,
+  L.~A., Danesh, J., de~Faire, U., den Ruijter, H.~M., Erbel, R., Erdmann, J.,
+  Eriksson, J.~G., Farrall, M., Ferrannini, E., Ferri{\`{e}}res, J., Ford, I.,
+  Forouhi, N.~G., Forrester, T., Gansevoort, R.~T., Gejman, P.~V., Gieger, C.,
+  Golay, A., Gottesman, O., Gudnason, V., Gyllensten, U., Haas, D.~W., Hall,
+  A.~S., Harris, T.~B., Hattersley, A.~T., Heath, A.~C., Hengstenberg, C.,
+  Hicks, A.~A., Hindorff, L.~A., Hingorani, A.~D., Hofman, A., Hovingh, G.~K.,
+  Humphries, S.~E., Hunt, S.~C., Hypponen, E., Jacobs, K.~B., Jarvelin, M.-R.,
+  Jousilahti, P., Jula, A.~M., Kaprio, J., Kastelein, J. J.~P., Kayser, M.,
+  Kee, F., Keinanen-Kiukaanniemi, S.~M., Kiemeney, L.~A., Kooner, J.~S.,
+  Kooperberg, C., Koskinen, S., Kovacs, P., Kraja, A.~T., Kumari, M., Kuusisto,
+  J., Lakka, T.~A., Langenberg, C., {Le Marchand}, L., Lehtim{\"{a}}ki, T.,
+  Lupoli, S., Madden, P. A.~F., M{\"{a}}nnist{\"{o}}, S., Manunta, P., Marette,
+  A., Matise, T.~C., McKnight, B., Meitinger, T., Moll, F.~L., Montgomery,
+  G.~W., Morris, A.~D., Morris, A.~P., Murray, J.~C., Nelis, M., Ohlsson, C.,
+  Oldehinkel, A.~J., Ong, K.~K., Ouwehand, W.~H., Pasterkamp, G., Peters, A.,
+  Pramstaller, P.~P., Price, J.~F., Qi, L., Raitakari, O.~T., Rankinen, T.,
+  Rao, D.~C., Rice, T.~K., Ritchie, M., Rudan, I., Salomaa, V., Samani, N.~J.,
+  Saramies, J., Sarzynski, M.~A., Schwarz, P. E.~H., Sebert, S., Sever, P.,
+  Shuldiner, A.~R., Sinisalo, J., Steinthorsdottir, V., Stolk, R.~P., Tardif,
+  J.-C., T{\"{o}}njes, A., Tremblay, A., Tremoli, E., Virtamo, J., Vohl, M.-C.,
+  {Electronic Medical Records and Genomics (eMEMERGEGE) Consortium}, {MIGen
+  Consortium}, {PAGEGE Consortium}, {LifeLines Cohort Study}, Amouyel, P.,
+  Asselbergs, F.~W., Assimes, T.~L., Bochud, M., Boehm, B.~O., Boerwinkle, E.,
+  Bottinger, E.~P., Bouchard, C., Cauchi, S., Chambers, J.~C., Chanock, S.~J.,
+  Cooper, R.~S., de~Bakker, P. I.~W., Dedoussis, G., Ferrucci, L., Franks,
+  P.~W., Froguel, P., Groop, L.~C., Haiman, C.~A., Hamsten, A., Hayes, M.~G.,
+  Hui, J., Hunter, D.~J., Hveem, K., Jukema, J.~W., Kaplan, R.~C., Kivimaki,
+  M., Kuh, D., Laakso, M., Liu, Y., Martin, N.~G., M{\"{a}}rz, W., Melbye, M.,
+  Moebus, S., Munroe, P.~B., Nj{\o}lstad, I., Oostra, B.~A., Palmer, C. N.~A.,
+  Pedersen, N.~L., Perola, M., P{\'{e}}russe, L., Peters, U., Powell, J.~E.,
+  Power, C., Quertermous, T., Rauramaa, R., Reinmaa, E., Ridker, P.~M.,
+  Rivadeneira, F., Rotter, J.~I., Saaristo, T.~E., Saleheen, D., Schlessinger,
+  D., Slagboom, P.~E., Snieder, H., Spector, T.~D., Strauch, K., Stumvoll, M.,
+  Tuomilehto, J., Uusitupa, M., van~der Harst, P., V{\"{o}}lzke, H., Walker,
+  M., Wareham, N.~J., Watkins, H., Wichmann, H.-E., Wilson, J.~F., Zanen, P.,
+  Deloukas, P., Heid, I.~M., Lindgren, C.~M., Mohlke, K.~L., Speliotes, E.~K.,
+  Thorsteinsdottir, U., Barroso, I., Fox, C.~S., North, K.~E., Strachan, D.~P.,
+  Beckmann, J.~S., Berndt, S.~I., Boehnke, M., Borecki, I.~B., McCarthy, M.~I.,
+  Metspalu, A., Stefansson, K., Uitterlinden, A.~G., van Duijn, C.~M., Franke,
+  L., Willer, C.~J., Price, A.~L., Lettre, G., Loos, R. J.~F., Weedon, M.~N.,
+  Ingelsson, E., O'Connell, J.~R., Abecasis, G.~R., Chasman, D.~I., Goddard,
+  M.~E., Visscher, P.~M., Hirschhorn, J.~N., and Frayling, T.~M. (2014).
+\newblock {Defining the role of common variation in the genomic and biological
+  architecture of adult human height.}
+\newblock {\em Nature genetics}, 46(11):1173--86.
+
+\bibitem[Wu et~al., 2016]{Wu2016}
+Wu, L., Shen, C., {Seed Ahmed}, M., {\"{O}}stenson, C.-G., and Gu, H.~F.
+  (2016).
+\newblock {Adenylate cyclase 3: a new target for anti-obesity drug
+  development.}
+\newblock {\em Obesity reviews : an official journal of the International
+  Association for the Study of Obesity}, 17(9):907--14.
+
+\bibitem[Wu et~al., 2018]{Wu2018}
+Wu, Y., Zeng, J., Zhang, F., Zhu, Z., Qi, T., Zheng, Z., Lloyd-Jones, L.~R.,
+  Marioni, R.~E., Martin, N.~G., Montgomery, G.~W., Deary, I.~J., Wray, N.~R.,
+  Visscher, P.~M., McRae, A.~F., and Yang, J. (2018).
+\newblock {Integrative analysis of omics summary data reveals putative
+  mechanisms underlying complex traits}.
+\newblock {\em Nature Communications}, 9(1):918.
+
+\bibitem[Xu, 2003]{Xu2003}
+Xu, S. (2003).
+\newblock {Estimating polygenic effects using markers of the entire genome}.
+\newblock {\em Genetics}, 163(2):789--801.
+
+\bibitem[Yalcin et~al., 2005]{Yalcin2005}
+Yalcin, B., Flint, J., and Mott, R. (2005).
+\newblock {Using progenitor strain information to identify quantitative trait
+  nucleotides in outbred mice.}
+\newblock {\em Genetics}, 171(2):673--81.
+
+\bibitem[Yamamoto, 1994]{Yamamoto1994}
+Yamamoto, A.~H. (1994).
+\newblock {Diallel analysis of temperature preference in Drosophila immigrans.}
+\newblock {\em Idengaku zasshi}, 69(1):77--86.
+
+\bibitem[Yang et~al., 2007]{Yang2007}
+Yang, H., Bell, T.~A., Churchill, G.~A., and {Pardo-Manuel de Villena}, F.
+  (2007).
+\newblock {On the subspecific origin of the laboratory mouse.}
+\newblock {\em Nature genetics}, 39(9):1100--7.
+
+\bibitem[Yang et~al., 2011]{Yang2011}
+Yang, H., Wang, J.~R., Didion, J.~P., Buus, R.~J., Bell, T.~A., Welsh, C.~E.,
+  Bonhomme, F., Yu, A. H.-T., Nachman, M.~W., Pialek, J., Tucker, P., Boursot,
+  P., McMillan, L., Churchill, G.~A., and de~Villena, F. P.-M. (2011).
+\newblock {Subspecific origin and haplotype diversity in the laboratory mouse.}
+\newblock {\em Nature genetics}, 43(7):648--55.
+
+\bibitem[Yi and Xu, 2008]{Yi2008}
+Yi, N. and Xu, S. (2008).
+\newblock {Bayesian LASSO for quantitative trait loci mapping}.
+\newblock {\em Genetics}, 179(2):1045--1055.
+
+\bibitem[Zhang et~al., 2014]{Zhang2014}
+Zhang, Z., Wang, W., and Valdar, W. (2014).
+\newblock {Bayesian modeling of haplotype effects in multiparent populations.}
+\newblock {\em Genetics}, 198(1):139--56.
+
+\bibitem[Zheng et~al., 2015]{Zheng2015}
+Zheng, C., Boer, M.~P., and van Eeuwijk, F.~A. (2015).
+\newblock {Reconstruction of Genome Ancestry Blocks in Multiparental
+  Populations}.
+\newblock {\em Genetics}, 200(4):1073--1087.
+
+\bibitem[Zheng et~al., 2011]{Zheng2011}
+Zheng, J., Li, Y., Abecasis, G.~R., and Scheet, P. (2011).
+\newblock {A Comparison of Approaches to Account for Uncertainty in Analysis of
+  Imputed Genotypes}.
+\newblock {\em Genetic Epidemiology}, 35(2):102--110.
+
+\bibitem[Zhu and Weir, 1996]{Zhu1996}
+Zhu, J. and Weir, B.~S. (1996).
+\newblock {Mixed model approaches for diallel analysis based on a bio-model.}
+\newblock {\em Genetical research}, 68(3):233--40.
+
+\bibitem[Zou et~al., 2005]{Zou2005}
+Zou, F., Gelfond, J. A.~L., Airey, D.~C., Lu, L., Manly, K.~F., Williams,
+  R.~W., and Threadgill, D.~W. (2005).
+\newblock {Quantitative trait locus analysis using recombinant inbred
+  intercrosses: theoretical and empirical considerations.}
+\newblock {\em Genetics}, 170(3):1299--311.
+
+\bibitem[Zou et~al., 2014]{Zou2014}
+Zou, F., Sun, W., Crowley, J.~J., Zhabotynsky, V., Sullivan, P.~F., and
+  {Pardo-Manuel de Villena}, F. (2014).
+\newblock {A Novel Statistical Approach for Jointly Analyzing RNA-Seq Data from
+  F1 Reciprocal Crosses and Inbred Lines.}
+\newblock {\em Genetics}, 197(1):389--99.
+
+\bibitem[Zou et~al., 2006]{Zou2006}
+Zou, F., Xu, Z., and Vision, T. (2006).
+\newblock {Assessing the significance of quantitative trait loci in replicable
+  mapping populations.}
+\newblock {\em Genetics}, 174(2):1063--8.
+
+\end{thebibliography}
